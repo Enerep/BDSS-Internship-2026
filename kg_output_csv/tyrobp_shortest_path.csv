@@ -1,0 +1,6 @@
+start,end,end_type,path_length,path_nodes,path_relationships
+TYROBP gene,ABCA1 gene,[Gene],2,"[TYROBP gene, Neuropathy, ABCA1 gene]","[associated_with, associated_with]"
+TYROBP gene,APOE gene,[Gene],2,"[TYROBP gene, Urogenital Diseases, APOE gene]","[associated_with, associated_with]"
+TYROBP gene,TREM2 gene,[Gene],2,"[TYROBP gene, Hereditary Chorea, TREM2 gene]","[associated_with, associated_with]"
+TYROBP gene,Alzheimer's Disease,[Disease],3,"[TYROBP gene, Movement Disorders, central nervous system, Alzheimer's Disease]","[associated_with, PAR, PAR]"
+TYROBP gene,APOE gene,[Disease],3,"[TYROBP gene, Deformity of lower limb, CTH gene, APOE gene]","[associated_with, associated_with, coexpression_Cervix___Endocervix]"

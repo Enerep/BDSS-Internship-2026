@@ -1,0 +1,9 @@
+gene,neighbor_type,count
+NR1H3 gene,[Disease],176
+NR1H3 gene,[Compound],86
+NR1H3 gene,[GO],8
+NR1H3 gene,[Protein],2
+TYROBP gene,[Disease],102
+TYROBP gene,[Compound],44
+TYROBP gene,[EFO],4
+TYROBP gene,[Protein],2

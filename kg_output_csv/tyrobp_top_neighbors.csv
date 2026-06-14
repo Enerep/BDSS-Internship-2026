@@ -1,0 +1,153 @@
+neighbor_type,neighbor,node_code,cui,relationship,source
+[EFO],Neuropathy,3100,C4721453,associated_with,HGNCHPO
+[Disease],Arthralgia,57676002,C0003862,associated_with,HGNCHPO
+[Disease],Oculomotor apraxia,193662007,C3489733,associated_with,HGNCHPO
+[Disease],Babinski Reflex,246586009,C0034935,associated_with,HGNCHPO
+[Disease],Gait abnormality,22325002,C0575081,associated_with,HGNCHPO
+[Disease],Physical aggression,248004009,C0424323,associated_with,HGNCHPO
+[Disease],Autosomal recessive inheritance,258211005,C0441748,associated_with,HGNCHPO
+[Disease],Bone pain,12584003,C0151825,associated_with,HGNCHPO
+[Disease],Dementia,52448006,C0497327,associated_with,HGNCHPO
+[Disease],"Reflex, Abnormal",46670006,C0034933,associated_with,HGNCHPO
+[Disease],Foot Deformities,229844004,C0016506,associated_with,HGNCHPO
+[Disease],Movement Disorders,60342002,C0026650,associated_with,HGNCHPO
+[Disease],Deformity of lower limb,449715001,C1096086,associated_with,HGNCHPO
+[Disease],Calcification of basal ganglia,16818591000119108,C1389280,associated_with,HGNCHPO
+[Disease],Agnosia,42341009,C0001816,associated_with,HGNCHPO
+[Disease],Urogenital Diseases,42030000,C0080276,associated_with,HGNCHPO
+[Disease],Peripheral Nervous System Diseases,42658009,C4721453,associated_with,HGNCHPO
+[Disease],Forgetful,55533009,C0542476,associated_with,HGNCHPO
+[Disease],Leukoencephalopathy,16058431000119104,C0270612,associated_with,HGNCHPO
+[Disease],Congenital digestive system anomalies,69518005,C0266015,associated_with,HGNCHPO
+[Disease],Cerebral calcification,17944005,C0270685,associated_with,HGNCHPO
+[Disease],Hand deformities,299033004,C0018564,associated_with,HGNCHPO
+[Disease],Deformity of limb,445144002,C0239337,associated_with,HGNCHPO
+[Disease],Social disinhibition,247977003,C0424296,associated_with,HGNCHPO
+[Disease],Hydrocephalus,230745008,C0020255,associated_with,HGNCHPO
+[Disease],Apraxias,6950007,C0003635,associated_with,HGNCHPO
+[Disease],Pathological fracture,268029009,C0016663,associated_with,HGNCHPO
+[Disease],Gliosis,359580009,C0017639,associated_with,HGNCHPO
+[Disease],Malig t Neoplasms,363346000,C0006826,associated_with,HGNCHPO
+[Disease],Hematologic Neoplasms,129154003,C0376545,associated_with,HGNCHPO
+[Disease],Lack of insight,24340004,C0233824,associated_with,HGNCHPO
+[Disease],Urinary Incontinence,165232002,C0042024,associated_with,HGNCHPO
+[Disease],Muscle Spasticity,397790002,C0026838,associated_with,HGNCHPO
+[Disease],Euphoric mood,307074005,C0235146,associated_with,HGNCHPO
+[Disease],White blood cell abnormality,134199001,C0152009,associated_with,HGNCHPO
+[Disease],Bone Cysts,66954000,C0005937,associated_with,HGNCHPO
+[Disease],Seizures,91175000,C0036572,associated_with,HGNCHPO
+[Disease],Pain,22253000,C0030193,associated_with,HGNCHPO
+[Disease],Electroencephalogram abnormal,274521009,C0151611,associated_with,HGNCHPO
+[Disease],Pyramidal sign,14648003,C0234132,associated_with,HGNCHPO
+[Disease],Involuntary Movements,162227008,C0427086,associated_with,HGNCHPO
+[Disease],Personality Change,102943000,C0240735,associated_with,HGNCHPO
+[Disease],Inappropriate behavior,112082005,C0233522,associated_with,HGNCHPO
+[Disease],Hypoplasia of corpus callosum,204043002,C0344482,associated_with,HGNCHPO
+[Disease],Dementia of frontal lobe type,278857002,C0338455,associated_with,HGNCHPO
+[Disease],leukemia,93143009,C0023418,associated_with,HGNCHPO
+[Disease],Degenerative brain disorder,52522001,C0154671,associated_with,HGNCHPO
+[Disease],Abnormal ocular motility,103252009,C0497202,associated_with,HGNCHPO
+[EFO],Hereditary Chorea,0004152,C4020858,associated_with,HGNCHPO
+[Disease],Signal Transduction,38952000,C0037083,gene_plays_role_in_process,NCI
+[Disease],"Chromosomes, Human, Pair 19",89959003,C0008661,located_in,GENCODE
+[Disease],antazoline,85408000,C0003143,positively_correlated_with_chemical_or_drug,CMAP
+[Disease],antazoline,85408000,C0003143,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Compound],"(-)-Phenyl-carbamic acid 1,3a,8-trimethyl-1,2,3,3a,8,8a-hexahydro-pyrrolo[2,3-b]indol-5-yl ester",192706,PUBCHEM:192706 CUI,positively_regulates,LINCS
+[Compound],SD-6-035-A3,49843054,PUBCHEM:49843054 CUI,positively_regulates,LINCS
+[Compound],Bromperidol,2448,PUBCHEM:2448 CUI,positively_regulates,LINCS
+[Compound],MW-A1-2,3125011,PUBCHEM:3125011 CUI,positively_regulates,LINCS
+[Compound],SA-1459430,54658771,PUBCHEM:54658771 CUI,positively_regulates,LINCS
+[Compound],KU-C103874,3579902,PUBCHEM:3579902 CUI,positively_regulates,LINCS
+[Compound],VU-0413255-1,23036271,PUBCHEM:23036271 CUI,positively_regulates,LINCS
+[Compound],Altizide,2122,PUBCHEM:2122 CUI,positively_regulates,LINCS
+[Compound],safrolglycol,97807,PUBCHEM:97807 CUI,positively_regulates,LINCS
+[Compound],firategrast,9935681,PUBCHEM:9935681 CUI,positively_regulates,LINCS
+[Compound],DMNB,88505,PUBCHEM:88505 CUI,positively_regulates,LINCS
+[Compound],Robustic-acid,54677407,PUBCHEM:54677407 CUI,positively_regulates,LINCS
+[Compound],clonixin-lysinate,3080836,PUBCHEM:3080836 CUI,negatively_regulates,LINCS
+[Compound],"7,8-dihydroxy-6-methoxy-2H-chromen-2-one",5273569,PUBCHEM:5273569 CUI,negatively_regulates,LINCS
+[Compound],Bromopride,2446,PUBCHEM:2446 CUI,negatively_regulates,LINCS
+[Compound],KU-C104131,44602406,PUBCHEM:44602406 CUI,negatively_regulates,LINCS
+[Compound],Suvorexant,24965990,PUBCHEM:24965990 CUI,negatively_regulates,LINCS
+[Compound],BG-1018,135886614,PUBCHEM:135886614 CUI,negatively_regulates,LINCS
+[Compound],inhibitor-BEC,16760312,PUBCHEM:16760312 CUI,negatively_regulates,LINCS
+[Compound],isoeugenol,5318562,PUBCHEM:5318562 CUI,negatively_regulates,LINCS
+[Compound],CGP-54626,3489614,PUBCHEM:3489614 CUI,negatively_regulates,LINCS
+[Compound],"isopropyl 4-(1-(2-fluoro-4-(methylsulfonyl)phenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yloxy)piperidine-1-carboxylate",11705608,PUBCHEM:11705608 CUI,negatively_regulates,LINCS
+[Disease],Pyramidal sign,14648003,C0234132,inverse_associated_with,HGNCHPO
+[EFO],Hereditary Chorea,0004152,C4020858,inverse_associated_with,HGNCHPO
+[EFO],Neuropathy,3100,C4721453,inverse_associated_with,HGNCHPO
+[Disease],Personality Change,102943000,C0240735,inverse_associated_with,HGNCHPO
+[Disease],Calcification of basal ganglia,16818591000119108,C1389280,inverse_associated_with,HGNCHPO
+[Disease],Pathological fracture,268029009,C0016663,inverse_associated_with,HGNCHPO
+[Disease],Deformity of limb,445144002,C0239337,inverse_associated_with,HGNCHPO
+[Disease],Abnormal ocular motility,103252009,C0497202,inverse_associated_with,HGNCHPO
+[Disease],Hydrocephalus,230745008,C0020255,inverse_associated_with,HGNCHPO
+[Disease],Babinski Reflex,246586009,C0034935,inverse_associated_with,HGNCHPO
+[Disease],Cerebral calcification,17944005,C0270685,inverse_associated_with,HGNCHPO
+[Disease],Hypoplasia of corpus callosum,204043002,C0344482,inverse_associated_with,HGNCHPO
+[Disease],Deformity of lower limb,449715001,C1096086,inverse_associated_with,HGNCHPO
+[Disease],Peripheral Nervous System Diseases,42658009,C4721453,inverse_associated_with,HGNCHPO
+[Disease],Urogenital Diseases,42030000,C0080276,inverse_associated_with,HGNCHPO
+[Disease],White blood cell abnormality,134199001,C0152009,inverse_associated_with,HGNCHPO
+[Disease],Forgetful,55533009,C0542476,inverse_associated_with,HGNCHPO
+[Disease],Congenital digestive system anomalies,69518005,C0266015,inverse_associated_with,HGNCHPO
+[Disease],Degenerative brain disorder,52522001,C0154671,inverse_associated_with,HGNCHPO
+[Disease],Physical aggression,248004009,C0424323,inverse_associated_with,HGNCHPO
+[Disease],Muscle Spasticity,397790002,C0026838,inverse_associated_with,HGNCHPO
+[Disease],Leukoencephalopathy,16058431000119104,C0270612,inverse_associated_with,HGNCHPO
+[Disease],Inappropriate behavior,112082005,C0233522,inverse_associated_with,HGNCHPO
+[Disease],leukemia,93143009,C0023418,inverse_associated_with,HGNCHPO
+[Disease],Oculomotor apraxia,193662007,C3489733,inverse_associated_with,HGNCHPO
+[Disease],Arthralgia,57676002,C0003862,inverse_associated_with,HGNCHPO
+[Disease],Seizures,91175000,C0036572,inverse_associated_with,HGNCHPO
+[Disease],Hematologic Neoplasms,129154003,C0376545,inverse_associated_with,HGNCHPO
+[Disease],Dementia,52448006,C0497327,inverse_associated_with,HGNCHPO
+[Disease],Bone Cysts,66954000,C0005937,inverse_associated_with,HGNCHPO
+[Disease],Involuntary Movements,162227008,C0427086,inverse_associated_with,HGNCHPO
+[Disease],Gait abnormality,22325002,C0575081,inverse_associated_with,HGNCHPO
+[Disease],Hand deformities,299033004,C0018564,inverse_associated_with,HGNCHPO
+[Disease],Pain,22253000,C0030193,inverse_associated_with,HGNCHPO
+[Disease],Malig t Neoplasms,363346000,C0006826,inverse_associated_with,HGNCHPO
+[Disease],Urinary Incontinence,165232002,C0042024,inverse_associated_with,HGNCHPO
+[Disease],Euphoric mood,307074005,C0235146,inverse_associated_with,HGNCHPO
+[Disease],Gliosis,359580009,C0017639,inverse_associated_with,HGNCHPO
+[Disease],Movement Disorders,60342002,C0026650,inverse_associated_with,HGNCHPO
+[Disease],Bone pain,12584003,C0151825,inverse_associated_with,HGNCHPO
+[Disease],Lack of insight,24340004,C0233824,inverse_associated_with,HGNCHPO
+[Disease],Autosomal recessive inheritance,258211005,C0441748,inverse_associated_with,HGNCHPO
+[Disease],Dementia of frontal lobe type,278857002,C0338455,inverse_associated_with,HGNCHPO
+[Disease],Foot Deformities,229844004,C0016506,inverse_associated_with,HGNCHPO
+[Disease],Social disinhibition,247977003,C0424296,inverse_associated_with,HGNCHPO
+[Disease],Electroencephalogram abnormal,274521009,C0151611,inverse_associated_with,HGNCHPO
+[Disease],Agnosia,42341009,C0001816,inverse_associated_with,HGNCHPO
+[Disease],Apraxias,6950007,C0003635,inverse_associated_with,HGNCHPO
+[Disease],"Reflex, Abnormal",46670006,C0034933,inverse_associated_with,HGNCHPO
+[Protein],TYRO protein tyrosine kinase-binding protein,O43914,UNIPROTKB:O43914 CUI,has_gene_product,UNIPROTKB
+[Disease],Signal Transduction,38952000,C0037083,process_involves_gene,NCI
+[Disease],"Chromosomes, Human, Pair 19",89959003,C0008661,location_of,GENCODE
+[Disease],POLYCYSTIC LIPOMEMBRANOUS OSTEODYSPLASIA WITH SCLEROSING LEUKOENCEPHALOPATHY,702347001,C1857316,Orphanet_410295,ORDO
+[Disease],POLYCYSTIC LIPOMEMBRANOUS OSTEODYSPLASIA WITH SCLEROSING LEUKOENCEPHALOPATHY,702347001,C1857316,inverse_Orphanet_410295,ORDO
+[Compound],clonixin-lysinate,3080836,PUBCHEM:3080836 CUI,negatively_regulated_by,LINCS
+[Compound],"7,8-dihydroxy-6-methoxy-2H-chromen-2-one",5273569,PUBCHEM:5273569 CUI,negatively_regulated_by,LINCS
+[Compound],Bromopride,2446,PUBCHEM:2446 CUI,negatively_regulated_by,LINCS
+[Compound],KU-C104131,44602406,PUBCHEM:44602406 CUI,negatively_regulated_by,LINCS
+[Compound],Suvorexant,24965990,PUBCHEM:24965990 CUI,negatively_regulated_by,LINCS
+[Compound],BG-1018,135886614,PUBCHEM:135886614 CUI,negatively_regulated_by,LINCS
+[Compound],inhibitor-BEC,16760312,PUBCHEM:16760312 CUI,negatively_regulated_by,LINCS
+[Compound],isoeugenol,5318562,PUBCHEM:5318562 CUI,negatively_regulated_by,LINCS
+[Compound],CGP-54626,3489614,PUBCHEM:3489614 CUI,negatively_regulated_by,LINCS
+[Compound],"isopropyl 4-(1-(2-fluoro-4-(methylsulfonyl)phenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yloxy)piperidine-1-carboxylate",11705608,PUBCHEM:11705608 CUI,negatively_regulated_by,LINCS
+[Compound],"(-)-Phenyl-carbamic acid 1,3a,8-trimethyl-1,2,3,3a,8,8a-hexahydro-pyrrolo[2,3-b]indol-5-yl ester",192706,PUBCHEM:192706 CUI,positively_regulated_by,LINCS
+[Compound],SD-6-035-A3,49843054,PUBCHEM:49843054 CUI,positively_regulated_by,LINCS
+[Compound],Bromperidol,2448,PUBCHEM:2448 CUI,positively_regulated_by,LINCS
+[Compound],MW-A1-2,3125011,PUBCHEM:3125011 CUI,positively_regulated_by,LINCS
+[Compound],SA-1459430,54658771,PUBCHEM:54658771 CUI,positively_regulated_by,LINCS
+[Compound],KU-C103874,3579902,PUBCHEM:3579902 CUI,positively_regulated_by,LINCS
+[Compound],VU-0413255-1,23036271,PUBCHEM:23036271 CUI,positively_regulated_by,LINCS
+[Compound],Altizide,2122,PUBCHEM:2122 CUI,positively_regulated_by,LINCS
+[Compound],safrolglycol,97807,PUBCHEM:97807 CUI,positively_regulated_by,LINCS
+[Compound],firategrast,9935681,PUBCHEM:9935681 CUI,positively_regulated_by,LINCS
+[Compound],DMNB,88505,PUBCHEM:88505 CUI,positively_regulated_by,LINCS
+[Compound],Robustic-acid,54677407,PUBCHEM:54677407 CUI,positively_regulated_by,LINCS
+[Protein],TYRO protein tyrosine kinase-binding protein,O43914,UNIPROTKB:O43914 CUI,gene_product_of,UNIPROTKB

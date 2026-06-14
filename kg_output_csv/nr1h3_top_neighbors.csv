@@ -1,0 +1,273 @@
+neighbor_type,neighbor,node_code,cui,relationship,source
+[GO],Cell Differentiation process,0030154,C0007589,gene_plays_role_in_process,NCI
+[Disease],Homeostasis,21979002,C0019868,gene_plays_role_in_process,NCI
+[GO],pattern biosynthesis,0007389,C1160421,gene_plays_role_in_process,NCI
+[GO],Steroid Metabolic Process,0008202,C0597520,gene_plays_role_in_process,NCI
+[GO],microtubule/chromatin interaction,0003677,C1148673,gene_plays_role_in_process,NCI
+[Disease],"Chromosomes, Human, Pair 11",16312006,C0008653,located_in,GENCODE
+[Disease],pregnenolone,47350002,C0373704,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Methotrexate,126941,C0025677,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Trazodone,5533,C0040805,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Decitabine,451668,C0049065,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],4-Amino-N-(2-diethylamino-ethyl)-benzamide,4913,C0033216,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Primaquine,4908,C0033126,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],SID11112786,5472,C0040207,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],"5-(4-Chloro-phenyl)-6-ethyl-pyrimidine-2,4-diamine",4993,C0034283,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Acetohexamide,1989,C0000992,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],"3-(dibenzo[b,e]oxepin-11(6H)-ylidene)-N,N-dimethylpropan-1-amine",667468,C0013085,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Amphotericin B,5280965,C0002679,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],SID11111262,3637,C0020223,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Acyclovir,135398513,C0001367,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Pioglitazone,4829,C0071097,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Sulfamerazine,5325,C0038684,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Sulfadimethoxine,5323,C0038676,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Meropenem,441130,C0066005,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],spironolactone,5833,C0037982,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Haloperidol,3559,C0018546,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Glipizide,3478,C0017642,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],gabapentin,3446,C0060926,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Piperacillin,43672,C0031955,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Cinchocaine,3025,C0012050,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],hydroxyzine,3658,C0020404,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],4-Amino-1-(5-hydroxymethyl-tetrahydro-furan-2-yl)-1H-pyrimidin-2-one,24066,C0012132,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Sulfacetamide,5320,C0038670,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],nalidixic-acid,4421,C0027353,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],SID11112531,3055,C0058371,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Melatonin,896,C0025219,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Nortriptyline,4543,C0028420,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],profenamine,688098,C0015042,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],sotalol,5253,C0037707,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Benzocaine,2337,C0005059,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],terbutaline,5403,C0039542,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],prednisolone,5755,C0032950,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],clozapine,135398737,C0009079,negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],pregnenolone,8955,C0373704,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],sirolimus,116109004,C0072980,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],Betazole,2125008,C0005321,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],methotrexate,68887009,C0025677,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],trazodone,372829000,C0040805,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],decitabine,420517007,C0049065,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],procainamide,11959009,C0033216,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],benzthiazide,66290002,C0053245,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],sulfadiazine,74523009,C0038675,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],primaquine,36391008,C0033126,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],ticlopidine,386950000,C0040207,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],tolazoline,4220008,C0040373,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],amantadine,51361008,C0002403,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],amodiaquine,387352008,C0002641,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],hyoscyamine,48899009,C0596004,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],pyrimethamine,373769001,C0034283,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],acetohexamide,387210001,C0000992,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],memantine,406457005,C0025242,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],doxepin,372587005,C0013085,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],amphotericin B,714520003,C0002679,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],hydralazine,387125005,C0020223,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],acyclovir,372729009,C0001367,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],meclofenamic acid,96172003,C0025042,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],pioglitazone,395828009,C0071097,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],sulfamerazine,5767002,C0038684,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],scopolamine,72870001,C0036442,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],flavoxate,53641000,C0016225,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],Pentolinium,35946000,C0030885,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],troglitazone,109085002,C0245514,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],zuclopenthixol,428715002,C0376160,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],protriptyline,49299006,C0033743,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],sulfadimethoxine,387279005,C0038676,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],prochlorperazine,79129001,C0033229,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],bacampicillin,82312001,C0052865,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],meropenem,387540000,C0066005,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],raloxifene,109029006,C0244404,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],propranolol,372772003,C0033497,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],cefixime anhydrous,785697003,C3661490,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],nabumetone,386859000,C0068334,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],clomipramine,372903001,C0009010,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],cycloserine,51334008,C0010590,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],tolnaftate,387204001,C0040379,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],atropine,73949004,C0004259,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],thioridazine,372706001,C0039943,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],tenoxicam,329913008,C0076096,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],atracurium besylate,72752006,C0004235,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],scopolamine hydrobromide,387477005,C0036444,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],spironolactone,387078006,C0037982,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],benzonatate,31801005,C0053229,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],methotrimeprazine,89029005,C0025678,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],haloperidol,386837002,C0018546,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],glipizide,26124005,C0017642,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],gabapentin,386845007,C0060926,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],piperacillin,372836004,C0031955,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],dibucaine,395953008,C0012050,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],piperacillin anhydrous,785694005,C1882383,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],hydroxyzine,80165005,C0020404,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],zalcitabine,387187000,C0012132,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],sulfacetamide,23827009,C0038670,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],nalidixic acid,387261006,C0027353,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],diphenidol,63779001,C0058371,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],melatonin,116523008,C0025219,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],imipramine,372718005,C0020934,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],bambuterol,349923005,C0052944,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],nortriptyline,372652004,C0028420,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],profenamine,52850008,C0015042,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],sotalol,96301002,C0037707,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],benzocaine,65020006,C0005059,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],terbutaline,372745006,C0039542,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],metolazone,22198003,C0025854,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],methscopolamine bromide,49371000,C0141756,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],prednisolone,116601002,C0032950,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],lincomycin,2596005,C0023726,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],clozapine,96221003,C0009079,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],nimesulide,703479000,C0132515,negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],butoconazole,372878005,C0054259,positively_correlated_with_chemical_or_drug,CMAP
+[Compound],"(R)-5-{4-[2-(Methyl-pyridin-2-yl-amino)-ethoxy]-benzyl}-thiazolidine-2,4-dione",10021239,C0289313,positively_correlated_with_chemical_or_drug,CMAP
+[Compound],Reserpine,5770,C0035179,positively_correlated_with_chemical_or_drug,CMAP
+[Compound],Kanamycin,6032,C0022487,positively_correlated_with_chemical_or_drug,CMAP
+[Compound],SID11111775,5335,C0038706,positively_correlated_with_chemical_or_drug,CMAP
+[Compound],Genistein,5280961,C0061202,positively_correlated_with_chemical_or_drug,CMAP
+[Disease],sirolimus,116109004,C0072980,positively_correlated_with_chemical_or_drug,CMAP
+[Disease],rosiglitazone,395869000,C0289313,positively_correlated_with_chemical_or_drug,CMAP
+[Disease],reserpine,78379001,C0035179,positively_correlated_with_chemical_or_drug,CMAP
+[Disease],flecainide,46576005,C0016229,positively_correlated_with_chemical_or_drug,CMAP
+[Disease],estradiol,126172005,C0014912,positively_correlated_with_chemical_or_drug,CMAP
+[Disease],yohimbine,73407000,C0724441,positively_correlated_with_chemical_or_drug,CMAP
+[Disease],kanamycin,387396008,C0022487,positively_correlated_with_chemical_or_drug,CMAP
+[Disease],Sulfaphenazole,51569009,C0038706,positively_correlated_with_chemical_or_drug,CMAP
+[Disease],fulvestrant,404845006,C0935916,positively_correlated_with_chemical_or_drug,CMAP
+[Compound],Genistein,5280961,C0061202,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Disease],sirolimus,116109004,C0072980,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Disease],rosiglitazone,395869000,C0289313,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Disease],reserpine,78379001,C0035179,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Disease],flecainide,46576005,C0016229,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Disease],estradiol,126172005,C0014912,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Disease],yohimbine,73407000,C0724441,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Disease],kanamycin,387396008,C0022487,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Disease],Sulfaphenazole,51569009,C0038706,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Disease],fulvestrant,404845006,C0935916,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Disease],butoconazole,372878005,C0054259,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Compound],"(R)-5-{4-[2-(Methyl-pyridin-2-yl-amino)-ethoxy]-benzyl}-thiazolidine-2,4-dione",10021239,C0289313,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Compound],Reserpine,5770,C0035179,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Compound],Kanamycin,6032,C0022487,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Compound],SID11111775,5335,C0038706,inverse_positively_correlated_with_chemical_or_drug,CMAP
+[Compound],pregnenolone,8955,C0373704,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],sirolimus,116109004,C0072980,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],Betazole,2125008,C0005321,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],methotrexate,68887009,C0025677,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],trazodone,372829000,C0040805,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],decitabine,420517007,C0049065,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],procainamide,11959009,C0033216,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],benzthiazide,66290002,C0053245,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],sulfadiazine,74523009,C0038675,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],primaquine,36391008,C0033126,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],ticlopidine,386950000,C0040207,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],tolazoline,4220008,C0040373,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],amantadine,51361008,C0002403,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],amodiaquine,387352008,C0002641,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],pyrimethamine,373769001,C0034283,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],hyoscyamine,48899009,C0596004,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],acetohexamide,387210001,C0000992,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],memantine,406457005,C0025242,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],doxepin,372587005,C0013085,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],amphotericin B,714520003,C0002679,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],hydralazine,387125005,C0020223,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],acyclovir,372729009,C0001367,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],meclofenamic acid,96172003,C0025042,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],pioglitazone,395828009,C0071097,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],sulfamerazine,5767002,C0038684,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],scopolamine,72870001,C0036442,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],flavoxate,53641000,C0016225,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],Pentolinium,35946000,C0030885,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],troglitazone,109085002,C0245514,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],zuclopenthixol,428715002,C0376160,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],protriptyline,49299006,C0033743,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],sulfadimethoxine,387279005,C0038676,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],prochlorperazine,79129001,C0033229,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],bacampicillin,82312001,C0052865,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],meropenem,387540000,C0066005,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],raloxifene,109029006,C0244404,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],propranolol,372772003,C0033497,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],cefixime anhydrous,785697003,C3661490,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],nabumetone,386859000,C0068334,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],clomipramine,372903001,C0009010,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],cycloserine,51334008,C0010590,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],tolnaftate,387204001,C0040379,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],atropine,73949004,C0004259,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],thioridazine,372706001,C0039943,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],tenoxicam,329913008,C0076096,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],atracurium besylate,72752006,C0004235,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],scopolamine hydrobromide,387477005,C0036444,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],spironolactone,387078006,C0037982,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],benzonatate,31801005,C0053229,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],methotrimeprazine,89029005,C0025678,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],haloperidol,386837002,C0018546,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],gabapentin,386845007,C0060926,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],glipizide,26124005,C0017642,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],dibucaine,395953008,C0012050,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],piperacillin,372836004,C0031955,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],piperacillin anhydrous,785694005,C1882383,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],hydroxyzine,80165005,C0020404,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],zalcitabine,387187000,C0012132,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],sulfacetamide,23827009,C0038670,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],nalidixic acid,387261006,C0027353,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],diphenidol,63779001,C0058371,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],melatonin,116523008,C0025219,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],imipramine,372718005,C0020934,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],bambuterol,349923005,C0052944,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],nortriptyline,372652004,C0028420,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],profenamine,52850008,C0015042,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],sotalol,96301002,C0037707,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],benzocaine,65020006,C0005059,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],terbutaline,372745006,C0039542,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],metolazone,22198003,C0025854,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],methscopolamine bromide,49371000,C0141756,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],prednisolone,116601002,C0032950,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],lincomycin,2596005,C0023726,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],clozapine,96221003,C0009079,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],nimesulide,703479000,C0132515,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Disease],pregnenolone,47350002,C0373704,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Methotrexate,126941,C0025677,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Trazodone,5533,C0040805,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Decitabine,451668,C0049065,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],4-Amino-N-(2-diethylamino-ethyl)-benzamide,4913,C0033216,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Primaquine,4908,C0033126,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],SID11112786,5472,C0040207,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],"5-(4-Chloro-phenyl)-6-ethyl-pyrimidine-2,4-diamine",4993,C0034283,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Acetohexamide,1989,C0000992,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],"3-(dibenzo[b,e]oxepin-11(6H)-ylidene)-N,N-dimethylpropan-1-amine",667468,C0013085,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Amphotericin B,5280965,C0002679,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],SID11111262,3637,C0020223,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Acyclovir,135398513,C0001367,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Pioglitazone,4829,C0071097,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Sulfamerazine,5325,C0038684,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Sulfadimethoxine,5323,C0038676,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Meropenem,441130,C0066005,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],spironolactone,5833,C0037982,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Haloperidol,3559,C0018546,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],gabapentin,3446,C0060926,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Glipizide,3478,C0017642,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Cinchocaine,3025,C0012050,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Piperacillin,43672,C0031955,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],4-Amino-1-(5-hydroxymethyl-tetrahydro-furan-2-yl)-1H-pyrimidin-2-one,24066,C0012132,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],hydroxyzine,3658,C0020404,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Sulfacetamide,5320,C0038670,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],SID11112531,3055,C0058371,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],nalidixic-acid,4421,C0027353,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Melatonin,896,C0025219,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Nortriptyline,4543,C0028420,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],profenamine,688098,C0015042,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],sotalol,5253,C0037707,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Benzocaine,2337,C0005059,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],terbutaline,5403,C0039542,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],prednisolone,5755,C0032950,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],clozapine,135398737,C0009079,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+[Compound],Melperone,15387,PUBCHEM:15387 CUI,negatively_regulates,LINCS
+[Compound],syrosingopine,6769,PUBCHEM:6769 CUI,negatively_regulates,LINCS
+[Protein],Oxysterols receptor LXR-alpha,Q13133,UNIPROTKB:Q13133 CUI,has_gene_product,UNIPROTKB
+[Disease],Homo sapiens,278412004,C0086418,organism_has_gene,NCI
+[Disease],Homeostasis,21979002,C0019868,process_involves_gene,NCI
+[GO],pattern biosynthesis,0007389,C1160421,process_involves_gene,NCI
+[GO],microtubule/chromatin interaction,0003677,C1148673,process_involves_gene,NCI
+[GO],Cell Differentiation process,0030154,C0007589,process_involves_gene,NCI
+[GO],Steroid Metabolic Process,0008202,C0597520,process_involves_gene,NCI
+[Disease],Homo sapiens,278412004,C0086418,gene_found_in_organism,NCI
+[Disease],"Chromosomes, Human, Pair 11",16312006,C0008653,location_of,GENCODE
+[Compound],Melperone,15387,PUBCHEM:15387 CUI,negatively_regulated_by,LINCS
+[Compound],syrosingopine,6769,PUBCHEM:6769 CUI,negatively_regulated_by,LINCS
+[Protein],Oxysterols receptor LXR-alpha,Q13133,UNIPROTKB:Q13133 CUI,gene_product_of,UNIPROTKB

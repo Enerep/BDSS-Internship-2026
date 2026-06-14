@@ -1,0 +1,6 @@
+start,end,end_type,path_length,path_nodes,path_relationships
+NR1H3 gene,ABCA1 gene,[Gene],2,"[NR1H3 gene, pregnenolone, ABCA1 gene]","[negatively_correlated_with_chemical_or_drug, positively_correlated_with_chemical_or_drug]"
+NR1H3 gene,APOE gene,[Gene],2,"[NR1H3 gene, Trazodone, APOE gene]","[negatively_correlated_with_chemical_or_drug, positively_correlated_with_chemical_or_drug]"
+NR1H3 gene,APOE gene,[Disease],2,"[NR1H3 gene, Trazodone, APOE gene]","[negatively_correlated_with_chemical_or_drug, positively_correlated_with_chemical_or_drug]"
+NR1H3 gene,TREM2 gene,[Gene],2,"[NR1H3 gene, Amphotericin B, TREM2 gene]","[negatively_correlated_with_chemical_or_drug, positively_correlated_with_chemical_or_drug]"
+NR1H3 gene,Alzheimer's Disease,[Disease],3,"[NR1H3 gene, Homo sapiens, MIR29A gene, Alzheimer's Disease]","[organism_has_gene, organism_has_gene, gene_associated_with_disease]"
