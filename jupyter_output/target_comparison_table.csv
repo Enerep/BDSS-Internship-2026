@@ -1,0 +1,4 @@
+target,mechanism,kg_compound_rows,unique_compounds,unique_pubchem_cids,string_evidence
+NR1H2,LXR-beta; lipid/cholesterol signaling; possible brain/microglia relevance,86,42,30,ABCA1-NR1H2 = 0.991; NR1H3-NR1H2 = 0.915
+NR1H3,LXR-alpha; lipid/cholesterol signaling; ABCA1/APOE lipid biology,86,43,38,ABCA1-NR1H3 = 0.967; NR1H3-NR1H2 = 0.915
+TYROBP,DAP12 adaptor; TREM2 immune/microglial signaling,44,22,13,TREM2-TYROBP = 0.999

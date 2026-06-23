@@ -1,0 +1,4 @@
+gene,kg_compound_rows,unique_compounds,pubchem_found,unique_pubchem_cids
+NR1H2 gene,86,42,62,30
+NR1H3 gene,86,43,76,38
+TYROBP gene,44,22,26,13

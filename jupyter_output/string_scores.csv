@@ -1,0 +1,5 @@
+pair,gene_1,gene_2,string_combined_score,interpretation
+TREM2-TYROBP,TREM2,TYROBP,0.999,Very strong TREM2-TYROBP immune signaling support
+ABCA1-NR1H2,ABCA1,NR1H2,0.991,Very strong ABCA1-NR1H2 lipid/LXR support
+ABCA1-NR1H3,ABCA1,NR1H3,0.967,Very strong ABCA1-NR1H3 lipid/LXR support
+NR1H3-NR1H2,NR1H3,NR1H2,0.915,Strong NR1H3-NR1H2 LXR-family support

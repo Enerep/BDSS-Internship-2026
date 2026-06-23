@@ -1,0 +1,217 @@
+gene,compound,compound_code,cui,relationship,source
+NR1H2 gene,"(R)-5-{4-[2-(Methyl-pyridin-2-yl-amino)-ethoxy]-benzyl}-thiazolidine-2,4-dione",10021239,C0289313,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,"(R)-5-{4-[2-(Methyl-pyridin-2-yl-amino)-ethoxy]-benzyl}-thiazolidine-2,4-dione",10021239,C0289313,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,"1-(2,4-dichlorophenyl)-5-(4-iodophenyl)-4-methyl-N-morpholino-1H-pyrazole-3-carboxamide",4302962,PUBCHEM:4302962 CUI,negatively_regulates,LINCS
+NR1H2 gene,"1-(2,4-dichlorophenyl)-5-(4-iodophenyl)-4-methyl-N-morpholino-1H-pyrazole-3-carboxamide",4302962,PUBCHEM:4302962 CUI,negatively_regulated_by,LINCS
+NR1H2 gene,1-phenylbiguanide,4780,PUBCHEM:4780 CUI,positively_regulates,LINCS
+NR1H2 gene,1-phenylbiguanide,4780,PUBCHEM:4780 CUI,positively_regulated_by,LINCS
+NR1H2 gene,"3-{2-[4-(6-Fluoro-benzo[d]isoxazol-3-yl)-piperidin-1-yl]-ethyl}-2-methyl-6,7,8,9-tetrahydro-pyrido[1,2-a]pyrimidin-4-one (Resperidone)",5073,C0073393,positively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,"3-{2-[4-(6-Fluoro-benzo[d]isoxazol-3-yl)-piperidin-1-yl]-ethyl}-2-methyl-6,7,8,9-tetrahydro-pyrido[1,2-a]pyrimidin-4-one (Resperidone)",5073,C0073393,inverse_positively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,"5-(4-Chloro-phenyl)-6-ethyl-pyrimidine-2,4-diamine",4993,C0034283,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,"5-(4-Chloro-phenyl)-6-ethyl-pyrimidine-2,4-diamine",4993,C0034283,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,"8-[4-(4-Pyrimidin-2-yl-piperazin-1-yl)-butyl]-8-aza-spiro[4.5]decane-7,9-dione (Buspirone)",2477,C0006462,positively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,"8-[4-(4-Pyrimidin-2-yl-piperazin-1-yl)-butyl]-8-aza-spiro[4.5]decane-7,9-dione (Buspirone)",2477,C0006462,inverse_positively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Chlorambucil,2708,C0008163,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Chlorambucil,2708,C0008163,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Cyclobenzaprine,2895,C0056732,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Cyclobenzaprine,2895,C0056732,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Decitabine,451668,C0049065,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Decitabine,451668,C0049065,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Doxylamine,3162,C0013092,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Doxylamine,3162,C0013092,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Erythromycin C,83933,C0600214,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Erythromycin C,83933,C0600214,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Estriol,5756,C0014927,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Estriol,5756,C0014927,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Estrone,5870,C0014942,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Estrone,5870,C0014942,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Finasteride,57363,C0060389,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Finasteride,57363,C0060389,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Haloperidol,3559,C0018546,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Haloperidol,3559,C0018546,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Kinetin,3830,C0049579,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Kinetin,3830,C0049579,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Levofloxacin,149096,C0028902,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Levofloxacin,149096,C0028902,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Lisuride,11957615,PUBCHEM:11957615 CUI,positively_regulates,LINCS
+NR1H2 gene,Lisuride,11957615,PUBCHEM:11957615 CUI,positively_regulated_by,LINCS
+NR1H2 gene,Mianserin,4184,PUBCHEM:4184 CUI,negatively_regulates,LINCS
+NR1H2 gene,Mianserin,4184,PUBCHEM:4184 CUI,negatively_regulated_by,LINCS
+NR1H2 gene,Naltrexone,5360515,C0027360,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Naltrexone,5360515,C0027360,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Naproxen,156391,C0027396,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Naproxen,156391,C0027396,positively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Naproxen,156391,C0027396,inverse_positively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Naproxen,156391,C0027396,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Primaquine,4908,C0033126,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,Primaquine,4908,C0033126,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,SA-1459261,54657706,PUBCHEM:54657706 CUI,positively_regulates,LINCS
+NR1H2 gene,SA-1459261,54657706,PUBCHEM:54657706 CUI,positively_regulated_by,LINCS
+NR1H2 gene,SA-1919584,54666568,PUBCHEM:54666568 CUI,negatively_regulates,LINCS
+NR1H2 gene,SA-1919584,54666568,PUBCHEM:54666568 CUI,negatively_regulated_by,LINCS
+NR1H2 gene,SID11111390,3883,C0050940,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,SID11111390,3883,C0050940,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,SID11111646,4748,C0031184,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,SID11111646,4748,C0031184,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,SID11111775,5335,C0038706,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,SID11111775,5335,C0038706,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,SID11113344,5344,C0038745,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,SID11113344,5344,C0038745,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,SID11113732,3955,C0023992,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,SID11113732,3955,C0023992,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,ST-4070043,3917094,PUBCHEM:3917094 CUI,positively_regulates,LINCS
+NR1H2 gene,ST-4070043,3917094,PUBCHEM:3917094 CUI,positively_regulated_by,LINCS
+NR1H2 gene,"[4-(4-Amino-6,7-dimethoxy-quinazolin-2-yl)-piperazin-1-yl]-furan-2-yl-methanone",4893,C0032912,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,"[4-(4-Amino-6,7-dimethoxy-quinazolin-2-yl)-piperazin-1-yl]-furan-2-yl-methanone",4893,C0032912,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,[<sup>3</sup>H]tiotropium,5487427,PUBCHEM:5487427 CUI,positively_regulates,LINCS
+NR1H2 gene,[<sup>3</sup>H]tiotropium,5487427,PUBCHEM:5487427 CUI,positively_regulated_by,LINCS
+NR1H2 gene,acebutolol,1978,C0000946,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,acebutolol,1978,C0000946,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,amitriptyline,2160,C0002600,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,amitriptyline,2160,C0002600,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,benactyzine,9330,PUBCHEM:9330 CUI,positively_regulates,LINCS
+NR1H2 gene,benactyzine,9330,PUBCHEM:9330 CUI,positively_regulated_by,LINCS
+NR1H2 gene,diethylstilbestrol,448537,C0012203,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,diethylstilbestrol,448537,C0012203,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,erythromycin,12560,C0014806,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,erythromycin,12560,C0014806,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,pivampicillin,33478,C0032032,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,pivampicillin,33478,C0032032,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,prednisolone,5755,C0032950,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,prednisolone,5755,C0032950,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,prednisone,5865,C0032952,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,prednisone,5865,C0032952,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,spironolactone,5833,C0037982,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,spironolactone,5833,C0037982,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,tretinoin,444795,C0040845,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H2 gene,tretinoin,444795,C0040845,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,"(R)-5-{4-[2-(Methyl-pyridin-2-yl-amino)-ethoxy]-benzyl}-thiazolidine-2,4-dione",10021239,C0289313,positively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,"(R)-5-{4-[2-(Methyl-pyridin-2-yl-amino)-ethoxy]-benzyl}-thiazolidine-2,4-dione",10021239,C0289313,inverse_positively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,"3-(dibenzo[b,e]oxepin-11(6H)-ylidene)-N,N-dimethylpropan-1-amine",667468,C0013085,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,"3-(dibenzo[b,e]oxepin-11(6H)-ylidene)-N,N-dimethylpropan-1-amine",667468,C0013085,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,4-Amino-1-(5-hydroxymethyl-tetrahydro-furan-2-yl)-1H-pyrimidin-2-one,24066,C0012132,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,4-Amino-1-(5-hydroxymethyl-tetrahydro-furan-2-yl)-1H-pyrimidin-2-one,24066,C0012132,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,4-Amino-N-(2-diethylamino-ethyl)-benzamide,4913,C0033216,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,4-Amino-N-(2-diethylamino-ethyl)-benzamide,4913,C0033216,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,"5-(4-Chloro-phenyl)-6-ethyl-pyrimidine-2,4-diamine",4993,C0034283,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,"5-(4-Chloro-phenyl)-6-ethyl-pyrimidine-2,4-diamine",4993,C0034283,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Acetohexamide,1989,C0000992,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Acetohexamide,1989,C0000992,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Acyclovir,135398513,C0001367,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Acyclovir,135398513,C0001367,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Amphotericin B,5280965,C0002679,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Amphotericin B,5280965,C0002679,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Benzocaine,2337,C0005059,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Benzocaine,2337,C0005059,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Cinchocaine,3025,C0012050,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Cinchocaine,3025,C0012050,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Decitabine,451668,C0049065,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Decitabine,451668,C0049065,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Genistein,5280961,C0061202,positively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Genistein,5280961,C0061202,inverse_positively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Glipizide,3478,C0017642,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Glipizide,3478,C0017642,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Haloperidol,3559,C0018546,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Haloperidol,3559,C0018546,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Kanamycin,6032,C0022487,positively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Kanamycin,6032,C0022487,inverse_positively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Melatonin,896,C0025219,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Melatonin,896,C0025219,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Melperone,15387,PUBCHEM:15387 CUI,negatively_regulates,LINCS
+NR1H3 gene,Melperone,15387,PUBCHEM:15387 CUI,negatively_regulated_by,LINCS
+NR1H3 gene,Meropenem,441130,C0066005,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Meropenem,441130,C0066005,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Methotrexate,126941,C0025677,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Methotrexate,126941,C0025677,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Nortriptyline,4543,C0028420,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Nortriptyline,4543,C0028420,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Pioglitazone,4829,C0071097,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Pioglitazone,4829,C0071097,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Piperacillin,43672,C0031955,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Piperacillin,43672,C0031955,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Primaquine,4908,C0033126,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Primaquine,4908,C0033126,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Reserpine,5770,C0035179,positively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Reserpine,5770,C0035179,inverse_positively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,SID11111262,3637,C0020223,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,SID11111262,3637,C0020223,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,SID11111775,5335,C0038706,positively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,SID11111775,5335,C0038706,inverse_positively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,SID11112531,3055,C0058371,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,SID11112531,3055,C0058371,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,SID11112786,5472,C0040207,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,SID11112786,5472,C0040207,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Sulfacetamide,5320,C0038670,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Sulfacetamide,5320,C0038670,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Sulfadimethoxine,5323,C0038676,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Sulfadimethoxine,5323,C0038676,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Sulfamerazine,5325,C0038684,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Sulfamerazine,5325,C0038684,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Trazodone,5533,C0040805,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,Trazodone,5533,C0040805,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,clozapine,135398737,C0009079,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,clozapine,135398737,C0009079,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,gabapentin,3446,C0060926,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,gabapentin,3446,C0060926,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,hydroxyzine,3658,C0020404,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,hydroxyzine,3658,C0020404,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,nalidixic-acid,4421,C0027353,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,nalidixic-acid,4421,C0027353,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,prednisolone,5755,C0032950,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,prednisolone,5755,C0032950,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,pregnenolone,8955,C0373704,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,pregnenolone,8955,C0373704,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,profenamine,688098,C0015042,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,profenamine,688098,C0015042,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,sotalol,5253,C0037707,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,sotalol,5253,C0037707,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,spironolactone,5833,C0037982,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,spironolactone,5833,C0037982,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,syrosingopine,6769,PUBCHEM:6769 CUI,negatively_regulates,LINCS
+NR1H3 gene,syrosingopine,6769,PUBCHEM:6769 CUI,negatively_regulated_by,LINCS
+NR1H3 gene,terbutaline,5403,C0039542,negatively_correlated_with_chemical_or_drug,CMAP
+NR1H3 gene,terbutaline,5403,C0039542,inverse_negatively_correlated_with_chemical_or_drug,CMAP
+TYROBP gene,"(-)-Phenyl-carbamic acid 1,3a,8-trimethyl-1,2,3,3a,8,8a-hexahydro-pyrrolo[2,3-b]indol-5-yl ester",192706,PUBCHEM:192706 CUI,positively_regulates,LINCS
+TYROBP gene,"(-)-Phenyl-carbamic acid 1,3a,8-trimethyl-1,2,3,3a,8,8a-hexahydro-pyrrolo[2,3-b]indol-5-yl ester",192706,PUBCHEM:192706 CUI,positively_regulated_by,LINCS
+TYROBP gene,"7,8-dihydroxy-6-methoxy-2H-chromen-2-one",5273569,PUBCHEM:5273569 CUI,negatively_regulates,LINCS
+TYROBP gene,"7,8-dihydroxy-6-methoxy-2H-chromen-2-one",5273569,PUBCHEM:5273569 CUI,negatively_regulated_by,LINCS
+TYROBP gene,Altizide,2122,PUBCHEM:2122 CUI,positively_regulates,LINCS
+TYROBP gene,Altizide,2122,PUBCHEM:2122 CUI,positively_regulated_by,LINCS
+TYROBP gene,BG-1018,135886614,PUBCHEM:135886614 CUI,negatively_regulates,LINCS
+TYROBP gene,BG-1018,135886614,PUBCHEM:135886614 CUI,negatively_regulated_by,LINCS
+TYROBP gene,Bromopride,2446,PUBCHEM:2446 CUI,negatively_regulates,LINCS
+TYROBP gene,Bromopride,2446,PUBCHEM:2446 CUI,negatively_regulated_by,LINCS
+TYROBP gene,Bromperidol,2448,PUBCHEM:2448 CUI,positively_regulates,LINCS
+TYROBP gene,Bromperidol,2448,PUBCHEM:2448 CUI,positively_regulated_by,LINCS
+TYROBP gene,CGP-54626,3489614,PUBCHEM:3489614 CUI,negatively_regulates,LINCS
+TYROBP gene,CGP-54626,3489614,PUBCHEM:3489614 CUI,negatively_regulated_by,LINCS
+TYROBP gene,DMNB,88505,PUBCHEM:88505 CUI,positively_regulates,LINCS
+TYROBP gene,DMNB,88505,PUBCHEM:88505 CUI,positively_regulated_by,LINCS
+TYROBP gene,KU-C103874,3579902,PUBCHEM:3579902 CUI,positively_regulates,LINCS
+TYROBP gene,KU-C103874,3579902,PUBCHEM:3579902 CUI,positively_regulated_by,LINCS
+TYROBP gene,KU-C104131,44602406,PUBCHEM:44602406 CUI,negatively_regulates,LINCS
+TYROBP gene,KU-C104131,44602406,PUBCHEM:44602406 CUI,negatively_regulated_by,LINCS
+TYROBP gene,MW-A1-2,3125011,PUBCHEM:3125011 CUI,positively_regulates,LINCS
+TYROBP gene,MW-A1-2,3125011,PUBCHEM:3125011 CUI,positively_regulated_by,LINCS
+TYROBP gene,Robustic-acid,54677407,PUBCHEM:54677407 CUI,positively_regulates,LINCS
+TYROBP gene,Robustic-acid,54677407,PUBCHEM:54677407 CUI,positively_regulated_by,LINCS
+TYROBP gene,SA-1459430,54658771,PUBCHEM:54658771 CUI,positively_regulates,LINCS
+TYROBP gene,SA-1459430,54658771,PUBCHEM:54658771 CUI,positively_regulated_by,LINCS
+TYROBP gene,SD-6-035-A3,49843054,PUBCHEM:49843054 CUI,positively_regulates,LINCS
+TYROBP gene,SD-6-035-A3,49843054,PUBCHEM:49843054 CUI,positively_regulated_by,LINCS
+TYROBP gene,Suvorexant,24965990,PUBCHEM:24965990 CUI,negatively_regulates,LINCS
+TYROBP gene,Suvorexant,24965990,PUBCHEM:24965990 CUI,negatively_regulated_by,LINCS
+TYROBP gene,VU-0413255-1,23036271,PUBCHEM:23036271 CUI,positively_regulates,LINCS
+TYROBP gene,VU-0413255-1,23036271,PUBCHEM:23036271 CUI,positively_regulated_by,LINCS
+TYROBP gene,clonixin-lysinate,3080836,PUBCHEM:3080836 CUI,negatively_regulates,LINCS
+TYROBP gene,clonixin-lysinate,3080836,PUBCHEM:3080836 CUI,negatively_regulated_by,LINCS
+TYROBP gene,firategrast,9935681,PUBCHEM:9935681 CUI,positively_regulates,LINCS
+TYROBP gene,firategrast,9935681,PUBCHEM:9935681 CUI,positively_regulated_by,LINCS
+TYROBP gene,inhibitor-BEC,16760312,PUBCHEM:16760312 CUI,negatively_regulates,LINCS
+TYROBP gene,inhibitor-BEC,16760312,PUBCHEM:16760312 CUI,negatively_regulated_by,LINCS
+TYROBP gene,isoeugenol,5318562,PUBCHEM:5318562 CUI,negatively_regulates,LINCS
+TYROBP gene,isoeugenol,5318562,PUBCHEM:5318562 CUI,negatively_regulated_by,LINCS
+TYROBP gene,"isopropyl 4-(1-(2-fluoro-4-(methylsulfonyl)phenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yloxy)piperidine-1-carboxylate",11705608,PUBCHEM:11705608 CUI,negatively_regulates,LINCS
+TYROBP gene,"isopropyl 4-(1-(2-fluoro-4-(methylsulfonyl)phenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yloxy)piperidine-1-carboxylate",11705608,PUBCHEM:11705608 CUI,negatively_regulated_by,LINCS
+TYROBP gene,safrolglycol,97807,PUBCHEM:97807 CUI,positively_regulates,LINCS
+TYROBP gene,safrolglycol,97807,PUBCHEM:97807 CUI,positively_regulated_by,LINCS

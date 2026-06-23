@@ -1,0 +1,217 @@
+gene,compound,compound_code,cui,relationship,source,pubchem_cid,canonical_smiles,molecular_formula,molecular_weight,iupac_name,pubchem_status
+NR1H2 gene,"(R)-5-{4-[2-(Methyl-pyridin-2-yl-amino)-ethoxy]-benzyl}-thiazolidine-2,4-dione",10021239,C0289313,negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,"(R)-5-{4-[2-(Methyl-pyridin-2-yl-amino)-ethoxy]-benzyl}-thiazolidine-2,4-dione",10021239,C0289313,inverse_negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,"1-(2,4-dichlorophenyl)-5-(4-iodophenyl)-4-methyl-N-morpholino-1H-pyrazole-3-carboxamide",4302962,PUBCHEM:4302962 CUI,negatively_regulates,LINCS,4302962.0,,C21H19Cl2IN4O2,557.2,"1-(2,4-dichlorophenyl)-5-(4-iodophenyl)-4-methyl-N-morpholin-4-ylpyrazole-3-carboxamide",found
+NR1H2 gene,"1-(2,4-dichlorophenyl)-5-(4-iodophenyl)-4-methyl-N-morpholino-1H-pyrazole-3-carboxamide",4302962,PUBCHEM:4302962 CUI,negatively_regulated_by,LINCS,4302962.0,,C21H19Cl2IN4O2,557.2,"1-(2,4-dichlorophenyl)-5-(4-iodophenyl)-4-methyl-N-morpholin-4-ylpyrazole-3-carboxamide",found
+NR1H2 gene,1-phenylbiguanide,4780,PUBCHEM:4780 CUI,positively_regulates,LINCS,4780.0,,C8H11N5,177.21,1-(diaminomethylidene)-2-phenylguanidine,found
+NR1H2 gene,1-phenylbiguanide,4780,PUBCHEM:4780 CUI,positively_regulated_by,LINCS,4780.0,,C8H11N5,177.21,1-(diaminomethylidene)-2-phenylguanidine,found
+NR1H2 gene,"3-{2-[4-(6-Fluoro-benzo[d]isoxazol-3-yl)-piperidin-1-yl]-ethyl}-2-methyl-6,7,8,9-tetrahydro-pyrido[1,2-a]pyrimidin-4-one (Resperidone)",5073,C0073393,positively_correlated_with_chemical_or_drug,CMAP,5073.0,,C23H27FN4O2,410.5,"3-[2-[4-(6-fluoro-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl]-2-methyl-6,7,8,9-tetrahydropyrido[1,2-a]pyrimidin-4-one",found
+NR1H2 gene,"3-{2-[4-(6-Fluoro-benzo[d]isoxazol-3-yl)-piperidin-1-yl]-ethyl}-2-methyl-6,7,8,9-tetrahydro-pyrido[1,2-a]pyrimidin-4-one (Resperidone)",5073,C0073393,inverse_positively_correlated_with_chemical_or_drug,CMAP,5073.0,,C23H27FN4O2,410.5,"3-[2-[4-(6-fluoro-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl]-2-methyl-6,7,8,9-tetrahydropyrido[1,2-a]pyrimidin-4-one",found
+NR1H2 gene,"5-(4-Chloro-phenyl)-6-ethyl-pyrimidine-2,4-diamine",4993,C0034283,negatively_correlated_with_chemical_or_drug,CMAP,4993.0,,C12H13ClN4,248.71,"5-(4-chlorophenyl)-6-ethylpyrimidine-2,4-diamine",found
+NR1H2 gene,"5-(4-Chloro-phenyl)-6-ethyl-pyrimidine-2,4-diamine",4993,C0034283,inverse_negatively_correlated_with_chemical_or_drug,CMAP,4993.0,,C12H13ClN4,248.71,"5-(4-chlorophenyl)-6-ethylpyrimidine-2,4-diamine",found
+NR1H2 gene,"8-[4-(4-Pyrimidin-2-yl-piperazin-1-yl)-butyl]-8-aza-spiro[4.5]decane-7,9-dione (Buspirone)",2477,C0006462,positively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,"8-[4-(4-Pyrimidin-2-yl-piperazin-1-yl)-butyl]-8-aza-spiro[4.5]decane-7,9-dione (Buspirone)",2477,C0006462,inverse_positively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,Chlorambucil,2708,C0008163,negatively_correlated_with_chemical_or_drug,CMAP,2708.0,,C14H19Cl2NO2,304.2,4-[4-[bis(2-chloroethyl)amino]phenyl]butanoic acid,found
+NR1H2 gene,Chlorambucil,2708,C0008163,inverse_negatively_correlated_with_chemical_or_drug,CMAP,2708.0,,C14H19Cl2NO2,304.2,4-[4-[bis(2-chloroethyl)amino]phenyl]butanoic acid,found
+NR1H2 gene,Cyclobenzaprine,2895,C0056732,negatively_correlated_with_chemical_or_drug,CMAP,2895.0,,C20H21N,275.4,"N,N-dimethyl-3-(2-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,9,11,13-heptaenylidene)propan-1-amine",found
+NR1H2 gene,Cyclobenzaprine,2895,C0056732,inverse_negatively_correlated_with_chemical_or_drug,CMAP,2895.0,,C20H21N,275.4,"N,N-dimethyl-3-(2-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,9,11,13-heptaenylidene)propan-1-amine",found
+NR1H2 gene,Decitabine,451668,C0049065,negatively_correlated_with_chemical_or_drug,CMAP,451668.0,,C8H12N4O4,228.21,"4-amino-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,3,5-triazin-2-one",found
+NR1H2 gene,Decitabine,451668,C0049065,inverse_negatively_correlated_with_chemical_or_drug,CMAP,451668.0,,C8H12N4O4,228.21,"4-amino-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,3,5-triazin-2-one",found
+NR1H2 gene,Doxylamine,3162,C0013092,negatively_correlated_with_chemical_or_drug,CMAP,3162.0,,C17H22N2O,270.37,"N,N-dimethyl-2-(1-phenyl-1-pyridin-2-ylethoxy)ethanamine",found
+NR1H2 gene,Doxylamine,3162,C0013092,inverse_negatively_correlated_with_chemical_or_drug,CMAP,3162.0,,C17H22N2O,270.37,"N,N-dimethyl-2-(1-phenyl-1-pyridin-2-ylethoxy)ethanamine",found
+NR1H2 gene,Erythromycin C,83933,C0600214,negatively_correlated_with_chemical_or_drug,CMAP,83933.0,,C36H65NO13,719.9,"(3R,4S,5S,6R,7R,9R,11R,12R,13S,14R)-4-[(2R,4R,5S,6S)-4,5-dihydroxy-4,6-dimethyloxan-2-yl]oxy-6-[(2S,3R,4S,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-14-ethyl-7,12,13-trihydroxy-3,5,7,9,11,13-hexamethyl-oxacyclotetradecane-2,10-dione",found
+NR1H2 gene,Erythromycin C,83933,C0600214,inverse_negatively_correlated_with_chemical_or_drug,CMAP,83933.0,,C36H65NO13,719.9,"(3R,4S,5S,6R,7R,9R,11R,12R,13S,14R)-4-[(2R,4R,5S,6S)-4,5-dihydroxy-4,6-dimethyloxan-2-yl]oxy-6-[(2S,3R,4S,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-14-ethyl-7,12,13-trihydroxy-3,5,7,9,11,13-hexamethyl-oxacyclotetradecane-2,10-dione",found
+NR1H2 gene,Estriol,5756,C0014927,negatively_correlated_with_chemical_or_drug,CMAP,5756.0,,C18H24O3,288.4,"(8R,9S,13S,14S,16R,17R)-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,16,17-triol",found
+NR1H2 gene,Estriol,5756,C0014927,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5756.0,,C18H24O3,288.4,"(8R,9S,13S,14S,16R,17R)-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,16,17-triol",found
+NR1H2 gene,Estrone,5870,C0014942,negatively_correlated_with_chemical_or_drug,CMAP,5870.0,,C18H22O2,270.4,"(8R,9S,13S,14S)-3-hydroxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-one",found
+NR1H2 gene,Estrone,5870,C0014942,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5870.0,,C18H22O2,270.4,"(8R,9S,13S,14S)-3-hydroxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-one",found
+NR1H2 gene,Finasteride,57363,C0060389,negatively_correlated_with_chemical_or_drug,CMAP,57363.0,,C23H36N2O2,372.5,"(1S,3aS,3bS,5aR,9aR,9bS,11aS)-N-tert-butyl-9a,11a-dimethyl-7-oxo-1,2,3,3a,3b,4,5,5a,6,9b,10,11-dodecahydroindeno[5,4-f]quinoline-1-carboxamide",found
+NR1H2 gene,Finasteride,57363,C0060389,inverse_negatively_correlated_with_chemical_or_drug,CMAP,57363.0,,C23H36N2O2,372.5,"(1S,3aS,3bS,5aR,9aR,9bS,11aS)-N-tert-butyl-9a,11a-dimethyl-7-oxo-1,2,3,3a,3b,4,5,5a,6,9b,10,11-dodecahydroindeno[5,4-f]quinoline-1-carboxamide",found
+NR1H2 gene,Haloperidol,3559,C0018546,negatively_correlated_with_chemical_or_drug,CMAP,3559.0,,C21H23ClFNO2,375.9,4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one,found
+NR1H2 gene,Haloperidol,3559,C0018546,inverse_negatively_correlated_with_chemical_or_drug,CMAP,3559.0,,C21H23ClFNO2,375.9,4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one,found
+NR1H2 gene,Kinetin,3830,C0049579,negatively_correlated_with_chemical_or_drug,CMAP,3830.0,,C10H9N5O,215.21,N-(furan-2-ylmethyl)-7H-purin-6-amine,found
+NR1H2 gene,Kinetin,3830,C0049579,inverse_negatively_correlated_with_chemical_or_drug,CMAP,3830.0,,C10H9N5O,215.21,N-(furan-2-ylmethyl)-7H-purin-6-amine,found
+NR1H2 gene,Levofloxacin,149096,C0028902,negatively_correlated_with_chemical_or_drug,CMAP,149096.0,,C18H20FN3O4,361.4,"(2S)-7-fluoro-2-methyl-6-(4-methylpiperazin-1-yl)-10-oxo-4-oxa-1-azatricyclo[7.3.1.05,13]trideca-5(13),6,8,11-tetraene-11-carboxylic acid",found
+NR1H2 gene,Levofloxacin,149096,C0028902,inverse_negatively_correlated_with_chemical_or_drug,CMAP,149096.0,,C18H20FN3O4,361.4,"(2S)-7-fluoro-2-methyl-6-(4-methylpiperazin-1-yl)-10-oxo-4-oxa-1-azatricyclo[7.3.1.05,13]trideca-5(13),6,8,11-tetraene-11-carboxylic acid",found
+NR1H2 gene,Lisuride,11957615,PUBCHEM:11957615 CUI,positively_regulates,LINCS,28864.0,,C20H26N4O,338.4,"3-[(6aR,9S)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl]-1,1-diethylurea",found
+NR1H2 gene,Lisuride,11957615,PUBCHEM:11957615 CUI,positively_regulated_by,LINCS,28864.0,,C20H26N4O,338.4,"3-[(6aR,9S)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl]-1,1-diethylurea",found
+NR1H2 gene,Mianserin,4184,PUBCHEM:4184 CUI,negatively_regulates,LINCS,4184.0,,C18H20N2,264.4,"5-methyl-2,5-diazatetracyclo[13.4.0.02,7.08,13]nonadeca-1(19),8,10,12,15,17-hexaene",found
+NR1H2 gene,Mianserin,4184,PUBCHEM:4184 CUI,negatively_regulated_by,LINCS,4184.0,,C18H20N2,264.4,"5-methyl-2,5-diazatetracyclo[13.4.0.02,7.08,13]nonadeca-1(19),8,10,12,15,17-hexaene",found
+NR1H2 gene,Naltrexone,5360515,C0027360,negatively_correlated_with_chemical_or_drug,CMAP,5360515.0,,C20H23NO4,341.4,"(4R,4aS,7aR,12bS)-3-(cyclopropylmethyl)-4a,9-dihydroxy-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",found
+NR1H2 gene,Naltrexone,5360515,C0027360,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5360515.0,,C20H23NO4,341.4,"(4R,4aS,7aR,12bS)-3-(cyclopropylmethyl)-4a,9-dihydroxy-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",found
+NR1H2 gene,Naproxen,156391,C0027396,negatively_correlated_with_chemical_or_drug,CMAP,156391.0,,C14H14O3,230.26,(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid,found
+NR1H2 gene,Naproxen,156391,C0027396,positively_correlated_with_chemical_or_drug,CMAP,156391.0,,C14H14O3,230.26,(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid,found
+NR1H2 gene,Naproxen,156391,C0027396,inverse_positively_correlated_with_chemical_or_drug,CMAP,156391.0,,C14H14O3,230.26,(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid,found
+NR1H2 gene,Naproxen,156391,C0027396,inverse_negatively_correlated_with_chemical_or_drug,CMAP,156391.0,,C14H14O3,230.26,(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid,found
+NR1H2 gene,Primaquine,4908,C0033126,negatively_correlated_with_chemical_or_drug,CMAP,4908.0,,C15H21N3O,259.35,"4-N-(6-methoxyquinolin-8-yl)pentane-1,4-diamine",found
+NR1H2 gene,Primaquine,4908,C0033126,inverse_negatively_correlated_with_chemical_or_drug,CMAP,4908.0,,C15H21N3O,259.35,"4-N-(6-methoxyquinolin-8-yl)pentane-1,4-diamine",found
+NR1H2 gene,SA-1459261,54657706,PUBCHEM:54657706 CUI,positively_regulates,LINCS,,,,,,CID not found
+NR1H2 gene,SA-1459261,54657706,PUBCHEM:54657706 CUI,positively_regulated_by,LINCS,,,,,,CID not found
+NR1H2 gene,SA-1919584,54666568,PUBCHEM:54666568 CUI,negatively_regulates,LINCS,,,,,,CID not found
+NR1H2 gene,SA-1919584,54666568,PUBCHEM:54666568 CUI,negatively_regulated_by,LINCS,,,,,,CID not found
+NR1H2 gene,SID11111390,3883,C0050940,negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,SID11111390,3883,C0050940,inverse_negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,SID11111646,4748,C0031184,negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,SID11111646,4748,C0031184,inverse_negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,SID11111775,5335,C0038706,negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,SID11111775,5335,C0038706,inverse_negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,SID11113344,5344,C0038745,negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,SID11113344,5344,C0038745,inverse_negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,SID11113732,3955,C0023992,negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,SID11113732,3955,C0023992,inverse_negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,ST-4070043,3917094,PUBCHEM:3917094 CUI,positively_regulates,LINCS,,,,,,CID not found
+NR1H2 gene,ST-4070043,3917094,PUBCHEM:3917094 CUI,positively_regulated_by,LINCS,,,,,,CID not found
+NR1H2 gene,"[4-(4-Amino-6,7-dimethoxy-quinazolin-2-yl)-piperazin-1-yl]-furan-2-yl-methanone",4893,C0032912,negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,"[4-(4-Amino-6,7-dimethoxy-quinazolin-2-yl)-piperazin-1-yl]-furan-2-yl-methanone",4893,C0032912,inverse_negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H2 gene,[<sup>3</sup>H]tiotropium,5487427,PUBCHEM:5487427 CUI,positively_regulates,LINCS,,,,,,CID not found
+NR1H2 gene,[<sup>3</sup>H]tiotropium,5487427,PUBCHEM:5487427 CUI,positively_regulated_by,LINCS,,,,,,CID not found
+NR1H2 gene,acebutolol,1978,C0000946,negatively_correlated_with_chemical_or_drug,CMAP,1978.0,,C18H28N2O4,336.4,N-[3-acetyl-4-[2-hydroxy-3-(propan-2-ylamino)propoxy]phenyl]butanamide,found
+NR1H2 gene,acebutolol,1978,C0000946,inverse_negatively_correlated_with_chemical_or_drug,CMAP,1978.0,,C18H28N2O4,336.4,N-[3-acetyl-4-[2-hydroxy-3-(propan-2-ylamino)propoxy]phenyl]butanamide,found
+NR1H2 gene,amitriptyline,2160,C0002600,negatively_correlated_with_chemical_or_drug,CMAP,2160.0,,C20H23N,277.4,"N,N-dimethyl-3-(2-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,11,13-hexaenylidene)propan-1-amine",found
+NR1H2 gene,amitriptyline,2160,C0002600,inverse_negatively_correlated_with_chemical_or_drug,CMAP,2160.0,,C20H23N,277.4,"N,N-dimethyl-3-(2-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,11,13-hexaenylidene)propan-1-amine",found
+NR1H2 gene,benactyzine,9330,PUBCHEM:9330 CUI,positively_regulates,LINCS,9330.0,,C20H25NO3,327.4,"2-(diethylamino)ethyl 2-hydroxy-2,2-diphenylacetate",found
+NR1H2 gene,benactyzine,9330,PUBCHEM:9330 CUI,positively_regulated_by,LINCS,9330.0,,C20H25NO3,327.4,"2-(diethylamino)ethyl 2-hydroxy-2,2-diphenylacetate",found
+NR1H2 gene,diethylstilbestrol,448537,C0012203,negatively_correlated_with_chemical_or_drug,CMAP,448537.0,,C18H20O2,268.3,4-[(E)-4-(4-hydroxyphenyl)hex-3-en-3-yl]phenol,found
+NR1H2 gene,diethylstilbestrol,448537,C0012203,inverse_negatively_correlated_with_chemical_or_drug,CMAP,448537.0,,C18H20O2,268.3,4-[(E)-4-(4-hydroxyphenyl)hex-3-en-3-yl]phenol,found
+NR1H2 gene,erythromycin,12560,C0014806,negatively_correlated_with_chemical_or_drug,CMAP,12560.0,,C37H67NO13,733.9,"(3R,4S,5S,6R,7R,9R,11R,12R,13S,14R)-6-[(2S,3R,4S,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-14-ethyl-7,12,13-trihydroxy-4-[(2R,4R,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl]oxy-3,5,7,9,11,13-hexamethyl-oxacyclotetradecane-2,10-dione",found
+NR1H2 gene,erythromycin,12560,C0014806,inverse_negatively_correlated_with_chemical_or_drug,CMAP,12560.0,,C37H67NO13,733.9,"(3R,4S,5S,6R,7R,9R,11R,12R,13S,14R)-6-[(2S,3R,4S,6R)-4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-14-ethyl-7,12,13-trihydroxy-4-[(2R,4R,5S,6S)-5-hydroxy-4-methoxy-4,6-dimethyloxan-2-yl]oxy-3,5,7,9,11,13-hexamethyl-oxacyclotetradecane-2,10-dione",found
+NR1H2 gene,pivampicillin,33478,C0032032,negatively_correlated_with_chemical_or_drug,CMAP,33478.0,,C22H29N3O6S,463.5,"2,2-dimethylpropanoyloxymethyl (2S,5R,6R)-6-[[(2R)-2-amino-2-phenylacetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate",found
+NR1H2 gene,pivampicillin,33478,C0032032,inverse_negatively_correlated_with_chemical_or_drug,CMAP,33478.0,,C22H29N3O6S,463.5,"2,2-dimethylpropanoyloxymethyl (2S,5R,6R)-6-[[(2R)-2-amino-2-phenylacetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate",found
+NR1H2 gene,prednisolone,5755,C0032950,negatively_correlated_with_chemical_or_drug,CMAP,5755.0,,C21H28O5,360.4,"(8S,9S,10R,11S,13S,14S,17R)-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-one",found
+NR1H2 gene,prednisolone,5755,C0032950,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5755.0,,C21H28O5,360.4,"(8S,9S,10R,11S,13S,14S,17R)-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-one",found
+NR1H2 gene,prednisone,5865,C0032952,negatively_correlated_with_chemical_or_drug,CMAP,5865.0,,C21H26O5,358.4,"(8S,9S,10R,13S,14S,17R)-17-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-6,7,8,9,12,14,15,16-octahydrocyclopenta[a]phenanthrene-3,11-dione",found
+NR1H2 gene,prednisone,5865,C0032952,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5865.0,,C21H26O5,358.4,"(8S,9S,10R,13S,14S,17R)-17-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-6,7,8,9,12,14,15,16-octahydrocyclopenta[a]phenanthrene-3,11-dione",found
+NR1H2 gene,spironolactone,5833,C0037982,negatively_correlated_with_chemical_or_drug,CMAP,5833.0,,C24H32O4S,416.6,"S-[(7R,8R,9S,10R,13S,14S,17R)-10,13-dimethyl-3,5'-dioxospiro[2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-17,2'-oxolane]-7-yl] ethanethioate",found
+NR1H2 gene,spironolactone,5833,C0037982,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5833.0,,C24H32O4S,416.6,"S-[(7R,8R,9S,10R,13S,14S,17R)-10,13-dimethyl-3,5'-dioxospiro[2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-17,2'-oxolane]-7-yl] ethanethioate",found
+NR1H2 gene,tretinoin,444795,C0040845,negatively_correlated_with_chemical_or_drug,CMAP,444795.0,,C20H28O2,300.4,"(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid",found
+NR1H2 gene,tretinoin,444795,C0040845,inverse_negatively_correlated_with_chemical_or_drug,CMAP,444795.0,,C20H28O2,300.4,"(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid",found
+NR1H3 gene,"(R)-5-{4-[2-(Methyl-pyridin-2-yl-amino)-ethoxy]-benzyl}-thiazolidine-2,4-dione",10021239,C0289313,positively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H3 gene,"(R)-5-{4-[2-(Methyl-pyridin-2-yl-amino)-ethoxy]-benzyl}-thiazolidine-2,4-dione",10021239,C0289313,inverse_positively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H3 gene,"3-(dibenzo[b,e]oxepin-11(6H)-ylidene)-N,N-dimethylpropan-1-amine",667468,C0013085,negatively_correlated_with_chemical_or_drug,CMAP,3158.0,,C19H21NO,279.4,"3-(6H-benzo[c][1]benzoxepin-11-ylidene)-N,N-dimethylpropan-1-amine",found
+NR1H3 gene,"3-(dibenzo[b,e]oxepin-11(6H)-ylidene)-N,N-dimethylpropan-1-amine",667468,C0013085,inverse_negatively_correlated_with_chemical_or_drug,CMAP,3158.0,,C19H21NO,279.4,"3-(6H-benzo[c][1]benzoxepin-11-ylidene)-N,N-dimethylpropan-1-amine",found
+NR1H3 gene,4-Amino-1-(5-hydroxymethyl-tetrahydro-furan-2-yl)-1H-pyrimidin-2-one,24066,C0012132,negatively_correlated_with_chemical_or_drug,CMAP,24066.0,,C9H13N3O3,211.22,"4-amino-1-[(2R,5S)-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one",found
+NR1H3 gene,4-Amino-1-(5-hydroxymethyl-tetrahydro-furan-2-yl)-1H-pyrimidin-2-one,24066,C0012132,inverse_negatively_correlated_with_chemical_or_drug,CMAP,24066.0,,C9H13N3O3,211.22,"4-amino-1-[(2R,5S)-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one",found
+NR1H3 gene,4-Amino-N-(2-diethylamino-ethyl)-benzamide,4913,C0033216,negatively_correlated_with_chemical_or_drug,CMAP,4913.0,,C13H21N3O,235.33,4-amino-N-[2-(diethylamino)ethyl]benzamide,found
+NR1H3 gene,4-Amino-N-(2-diethylamino-ethyl)-benzamide,4913,C0033216,inverse_negatively_correlated_with_chemical_or_drug,CMAP,4913.0,,C13H21N3O,235.33,4-amino-N-[2-(diethylamino)ethyl]benzamide,found
+NR1H3 gene,"5-(4-Chloro-phenyl)-6-ethyl-pyrimidine-2,4-diamine",4993,C0034283,negatively_correlated_with_chemical_or_drug,CMAP,4993.0,,C12H13ClN4,248.71,"5-(4-chlorophenyl)-6-ethylpyrimidine-2,4-diamine",found
+NR1H3 gene,"5-(4-Chloro-phenyl)-6-ethyl-pyrimidine-2,4-diamine",4993,C0034283,inverse_negatively_correlated_with_chemical_or_drug,CMAP,4993.0,,C12H13ClN4,248.71,"5-(4-chlorophenyl)-6-ethylpyrimidine-2,4-diamine",found
+NR1H3 gene,Acetohexamide,1989,C0000992,negatively_correlated_with_chemical_or_drug,CMAP,1989.0,,C15H20N2O4S,324.4,1-(4-acetylphenyl)sulfonyl-3-cyclohexylurea,found
+NR1H3 gene,Acetohexamide,1989,C0000992,inverse_negatively_correlated_with_chemical_or_drug,CMAP,1989.0,,C15H20N2O4S,324.4,1-(4-acetylphenyl)sulfonyl-3-cyclohexylurea,found
+NR1H3 gene,Acyclovir,135398513,C0001367,negatively_correlated_with_chemical_or_drug,CMAP,135398513.0,,C8H11N5O3,225.2,2-amino-9-(2-hydroxyethoxymethyl)-1H-purin-6-one,found
+NR1H3 gene,Acyclovir,135398513,C0001367,inverse_negatively_correlated_with_chemical_or_drug,CMAP,135398513.0,,C8H11N5O3,225.2,2-amino-9-(2-hydroxyethoxymethyl)-1H-purin-6-one,found
+NR1H3 gene,Amphotericin B,5280965,C0002679,negatively_correlated_with_chemical_or_drug,CMAP,5280965.0,,C47H73NO17,924.1,"(1R,3S,5R,6R,9R,11R,15S,16R,17R,18S,19E,21E,23E,25E,27E,29E,31E,33R,35S,36R,37S)-33-[(2R,3S,4S,5S,6R)-4-amino-3,5-dihydroxy-6-methyloxan-2-yl]oxy-1,3,5,6,9,11,17,37-octahydroxy-15,16,18-trimethyl-13-oxo-14,39-dioxabicyclo[33.3.1]nonatriaconta-19,21,23,25,27,29,31-heptaene-36-carboxylic acid",found
+NR1H3 gene,Amphotericin B,5280965,C0002679,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5280965.0,,C47H73NO17,924.1,"(1R,3S,5R,6R,9R,11R,15S,16R,17R,18S,19E,21E,23E,25E,27E,29E,31E,33R,35S,36R,37S)-33-[(2R,3S,4S,5S,6R)-4-amino-3,5-dihydroxy-6-methyloxan-2-yl]oxy-1,3,5,6,9,11,17,37-octahydroxy-15,16,18-trimethyl-13-oxo-14,39-dioxabicyclo[33.3.1]nonatriaconta-19,21,23,25,27,29,31-heptaene-36-carboxylic acid",found
+NR1H3 gene,Benzocaine,2337,C0005059,negatively_correlated_with_chemical_or_drug,CMAP,2337.0,,C9H11NO2,165.19,ethyl 4-aminobenzoate,found
+NR1H3 gene,Benzocaine,2337,C0005059,inverse_negatively_correlated_with_chemical_or_drug,CMAP,2337.0,,C9H11NO2,165.19,ethyl 4-aminobenzoate,found
+NR1H3 gene,Cinchocaine,3025,C0012050,negatively_correlated_with_chemical_or_drug,CMAP,3025.0,,C20H29N3O2,343.5,2-butoxy-N-[2-(diethylamino)ethyl]quinoline-4-carboxamide,found
+NR1H3 gene,Cinchocaine,3025,C0012050,inverse_negatively_correlated_with_chemical_or_drug,CMAP,3025.0,,C20H29N3O2,343.5,2-butoxy-N-[2-(diethylamino)ethyl]quinoline-4-carboxamide,found
+NR1H3 gene,Decitabine,451668,C0049065,negatively_correlated_with_chemical_or_drug,CMAP,451668.0,,C8H12N4O4,228.21,"4-amino-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,3,5-triazin-2-one",found
+NR1H3 gene,Decitabine,451668,C0049065,inverse_negatively_correlated_with_chemical_or_drug,CMAP,451668.0,,C8H12N4O4,228.21,"4-amino-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,3,5-triazin-2-one",found
+NR1H3 gene,Genistein,5280961,C0061202,positively_correlated_with_chemical_or_drug,CMAP,5280961.0,,C15H10O5,270.24,"5,7-dihydroxy-3-(4-hydroxyphenyl)chromen-4-one",found
+NR1H3 gene,Genistein,5280961,C0061202,inverse_positively_correlated_with_chemical_or_drug,CMAP,5280961.0,,C15H10O5,270.24,"5,7-dihydroxy-3-(4-hydroxyphenyl)chromen-4-one",found
+NR1H3 gene,Glipizide,3478,C0017642,negatively_correlated_with_chemical_or_drug,CMAP,3478.0,,C21H27N5O4S,445.5,N-[2-[4-(cyclohexylcarbamoylsulfamoyl)phenyl]ethyl]-5-methylpyrazine-2-carboxamide,found
+NR1H3 gene,Glipizide,3478,C0017642,inverse_negatively_correlated_with_chemical_or_drug,CMAP,3478.0,,C21H27N5O4S,445.5,N-[2-[4-(cyclohexylcarbamoylsulfamoyl)phenyl]ethyl]-5-methylpyrazine-2-carboxamide,found
+NR1H3 gene,Haloperidol,3559,C0018546,negatively_correlated_with_chemical_or_drug,CMAP,3559.0,,C21H23ClFNO2,375.9,4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one,found
+NR1H3 gene,Haloperidol,3559,C0018546,inverse_negatively_correlated_with_chemical_or_drug,CMAP,3559.0,,C21H23ClFNO2,375.9,4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one,found
+NR1H3 gene,Kanamycin,6032,C0022487,positively_correlated_with_chemical_or_drug,CMAP,6032.0,,C18H36N4O11,484.5,"(2R,3S,4S,5R,6R)-2-(aminomethyl)-6-[(1R,2R,3S,4R,6S)-4,6-diamino-3-[(2S,3R,4S,5S,6R)-4-amino-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2-hydroxycyclohexyl]oxyoxane-3,4,5-triol",found
+NR1H3 gene,Kanamycin,6032,C0022487,inverse_positively_correlated_with_chemical_or_drug,CMAP,6032.0,,C18H36N4O11,484.5,"(2R,3S,4S,5R,6R)-2-(aminomethyl)-6-[(1R,2R,3S,4R,6S)-4,6-diamino-3-[(2S,3R,4S,5S,6R)-4-amino-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2-hydroxycyclohexyl]oxyoxane-3,4,5-triol",found
+NR1H3 gene,Melatonin,896,C0025219,negatively_correlated_with_chemical_or_drug,CMAP,896.0,,C13H16N2O2,232.28,N-[2-(5-methoxy-1H-indol-3-yl)ethyl]acetamide,found
+NR1H3 gene,Melatonin,896,C0025219,inverse_negatively_correlated_with_chemical_or_drug,CMAP,896.0,,C13H16N2O2,232.28,N-[2-(5-methoxy-1H-indol-3-yl)ethyl]acetamide,found
+NR1H3 gene,Melperone,15387,PUBCHEM:15387 CUI,negatively_regulates,LINCS,15387.0,,C16H22FNO,263.35,1-(4-fluorophenyl)-4-(4-methylpiperidin-1-yl)butan-1-one,found
+NR1H3 gene,Melperone,15387,PUBCHEM:15387 CUI,negatively_regulated_by,LINCS,15387.0,,C16H22FNO,263.35,1-(4-fluorophenyl)-4-(4-methylpiperidin-1-yl)butan-1-one,found
+NR1H3 gene,Meropenem,441130,C0066005,negatively_correlated_with_chemical_or_drug,CMAP,441130.0,,C17H25N3O5S,383.5,"(4R,5S,6S)-3-[(3S,5S)-5-(dimethylcarbamoyl)pyrrolidin-3-yl]sulfanyl-6-[(1R)-1-hydroxyethyl]-4-methyl-7-oxo-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid",found
+NR1H3 gene,Meropenem,441130,C0066005,inverse_negatively_correlated_with_chemical_or_drug,CMAP,441130.0,,C17H25N3O5S,383.5,"(4R,5S,6S)-3-[(3S,5S)-5-(dimethylcarbamoyl)pyrrolidin-3-yl]sulfanyl-6-[(1R)-1-hydroxyethyl]-4-methyl-7-oxo-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid",found
+NR1H3 gene,Methotrexate,126941,C0025677,negatively_correlated_with_chemical_or_drug,CMAP,126941.0,,C20H22N8O5,454.4,"(2S)-2-[[4-[(2,4-diaminopteridin-6-yl)methyl-methylamino]benzoyl]amino]pentanedioic acid",found
+NR1H3 gene,Methotrexate,126941,C0025677,inverse_negatively_correlated_with_chemical_or_drug,CMAP,126941.0,,C20H22N8O5,454.4,"(2S)-2-[[4-[(2,4-diaminopteridin-6-yl)methyl-methylamino]benzoyl]amino]pentanedioic acid",found
+NR1H3 gene,Nortriptyline,4543,C0028420,negatively_correlated_with_chemical_or_drug,CMAP,4543.0,,C19H21N,263.4,"N-methyl-3-(2-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,11,13-hexaenylidene)propan-1-amine",found
+NR1H3 gene,Nortriptyline,4543,C0028420,inverse_negatively_correlated_with_chemical_or_drug,CMAP,4543.0,,C19H21N,263.4,"N-methyl-3-(2-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,11,13-hexaenylidene)propan-1-amine",found
+NR1H3 gene,Pioglitazone,4829,C0071097,negatively_correlated_with_chemical_or_drug,CMAP,4829.0,,C19H20N2O3S,356.4,"5-[[4-[2-(5-ethyl-2-pyridinyl)ethoxy]phenyl]methyl]-1,3-thiazolidine-2,4-dione",found
+NR1H3 gene,Pioglitazone,4829,C0071097,inverse_negatively_correlated_with_chemical_or_drug,CMAP,4829.0,,C19H20N2O3S,356.4,"5-[[4-[2-(5-ethyl-2-pyridinyl)ethoxy]phenyl]methyl]-1,3-thiazolidine-2,4-dione",found
+NR1H3 gene,Piperacillin,43672,C0031955,negatively_correlated_with_chemical_or_drug,CMAP,43672.0,,C23H27N5O7S,517.6,"(2S,5R,6R)-6-[[(2R)-2-[(4-ethyl-2,3-dioxopiperazine-1-carbonyl)amino]-2-phenylacetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",found
+NR1H3 gene,Piperacillin,43672,C0031955,inverse_negatively_correlated_with_chemical_or_drug,CMAP,43672.0,,C23H27N5O7S,517.6,"(2S,5R,6R)-6-[[(2R)-2-[(4-ethyl-2,3-dioxopiperazine-1-carbonyl)amino]-2-phenylacetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",found
+NR1H3 gene,Primaquine,4908,C0033126,negatively_correlated_with_chemical_or_drug,CMAP,4908.0,,C15H21N3O,259.35,"4-N-(6-methoxyquinolin-8-yl)pentane-1,4-diamine",found
+NR1H3 gene,Primaquine,4908,C0033126,inverse_negatively_correlated_with_chemical_or_drug,CMAP,4908.0,,C15H21N3O,259.35,"4-N-(6-methoxyquinolin-8-yl)pentane-1,4-diamine",found
+NR1H3 gene,Reserpine,5770,C0035179,positively_correlated_with_chemical_or_drug,CMAP,5770.0,,C33H40N2O9,608.7,"methyl (1R,15S,17R,18R,19S,20S)-6,18-dimethoxy-17-(3,4,5-trimethoxybenzoyl)oxy-1,3,11,12,14,15,16,17,18,19,20,21-dodecahydroyohimban-19-carboxylate",found
+NR1H3 gene,Reserpine,5770,C0035179,inverse_positively_correlated_with_chemical_or_drug,CMAP,5770.0,,C33H40N2O9,608.7,"methyl (1R,15S,17R,18R,19S,20S)-6,18-dimethoxy-17-(3,4,5-trimethoxybenzoyl)oxy-1,3,11,12,14,15,16,17,18,19,20,21-dodecahydroyohimban-19-carboxylate",found
+NR1H3 gene,SID11111262,3637,C0020223,negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H3 gene,SID11111262,3637,C0020223,inverse_negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H3 gene,SID11111775,5335,C0038706,positively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H3 gene,SID11111775,5335,C0038706,inverse_positively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H3 gene,SID11112531,3055,C0058371,negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H3 gene,SID11112531,3055,C0058371,inverse_negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H3 gene,SID11112786,5472,C0040207,negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H3 gene,SID11112786,5472,C0040207,inverse_negatively_correlated_with_chemical_or_drug,CMAP,,,,,,CID not found
+NR1H3 gene,Sulfacetamide,5320,C0038670,negatively_correlated_with_chemical_or_drug,CMAP,5320.0,,C8H10N2O3S,214.24,N-(4-aminophenyl)sulfonylacetamide,found
+NR1H3 gene,Sulfacetamide,5320,C0038670,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5320.0,,C8H10N2O3S,214.24,N-(4-aminophenyl)sulfonylacetamide,found
+NR1H3 gene,Sulfadimethoxine,5323,C0038676,negatively_correlated_with_chemical_or_drug,CMAP,5323.0,,C12H14N4O4S,310.33,"4-amino-N-(2,6-dimethoxypyrimidin-4-yl)benzenesulfonamide",found
+NR1H3 gene,Sulfadimethoxine,5323,C0038676,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5323.0,,C12H14N4O4S,310.33,"4-amino-N-(2,6-dimethoxypyrimidin-4-yl)benzenesulfonamide",found
+NR1H3 gene,Sulfamerazine,5325,C0038684,negatively_correlated_with_chemical_or_drug,CMAP,5325.0,,C11H12N4O2S,264.31,4-amino-N-(4-methylpyrimidin-2-yl)benzenesulfonamide,found
+NR1H3 gene,Sulfamerazine,5325,C0038684,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5325.0,,C11H12N4O2S,264.31,4-amino-N-(4-methylpyrimidin-2-yl)benzenesulfonamide,found
+NR1H3 gene,Trazodone,5533,C0040805,negatively_correlated_with_chemical_or_drug,CMAP,5533.0,,C19H22ClN5O,371.9,"2-[3-[4-(3-chlorophenyl)piperazin-1-yl]propyl]-[1,2,4]triazolo[4,3-a]pyridin-3-one",found
+NR1H3 gene,Trazodone,5533,C0040805,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5533.0,,C19H22ClN5O,371.9,"2-[3-[4-(3-chlorophenyl)piperazin-1-yl]propyl]-[1,2,4]triazolo[4,3-a]pyridin-3-one",found
+NR1H3 gene,clozapine,135398737,C0009079,negatively_correlated_with_chemical_or_drug,CMAP,135398737.0,,C18H19ClN4,326.8,"3-chloro-6-(4-methylpiperazin-1-yl)-11H-benzo[b][1,4]benzodiazepine",found
+NR1H3 gene,clozapine,135398737,C0009079,inverse_negatively_correlated_with_chemical_or_drug,CMAP,135398737.0,,C18H19ClN4,326.8,"3-chloro-6-(4-methylpiperazin-1-yl)-11H-benzo[b][1,4]benzodiazepine",found
+NR1H3 gene,gabapentin,3446,C0060926,negatively_correlated_with_chemical_or_drug,CMAP,3446.0,,C9H17NO2,171.24,2-[1-(aminomethyl)cyclohexyl]acetic acid,found
+NR1H3 gene,gabapentin,3446,C0060926,inverse_negatively_correlated_with_chemical_or_drug,CMAP,3446.0,,C9H17NO2,171.24,2-[1-(aminomethyl)cyclohexyl]acetic acid,found
+NR1H3 gene,hydroxyzine,3658,C0020404,negatively_correlated_with_chemical_or_drug,CMAP,3658.0,,C21H27ClN2O2,374.9,2-[2-[4-[(4-chlorophenyl)-phenylmethyl]piperazin-1-yl]ethoxy]ethanol,found
+NR1H3 gene,hydroxyzine,3658,C0020404,inverse_negatively_correlated_with_chemical_or_drug,CMAP,3658.0,,C21H27ClN2O2,374.9,2-[2-[4-[(4-chlorophenyl)-phenylmethyl]piperazin-1-yl]ethoxy]ethanol,found
+NR1H3 gene,nalidixic-acid,4421,C0027353,negatively_correlated_with_chemical_or_drug,CMAP,4421.0,,C12H12N2O3,232.23,"1-ethyl-7-methyl-4-oxo-1,8-naphthyridine-3-carboxylic acid",found
+NR1H3 gene,nalidixic-acid,4421,C0027353,inverse_negatively_correlated_with_chemical_or_drug,CMAP,4421.0,,C12H12N2O3,232.23,"1-ethyl-7-methyl-4-oxo-1,8-naphthyridine-3-carboxylic acid",found
+NR1H3 gene,prednisolone,5755,C0032950,negatively_correlated_with_chemical_or_drug,CMAP,5755.0,,C21H28O5,360.4,"(8S,9S,10R,11S,13S,14S,17R)-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-one",found
+NR1H3 gene,prednisolone,5755,C0032950,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5755.0,,C21H28O5,360.4,"(8S,9S,10R,11S,13S,14S,17R)-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-one",found
+NR1H3 gene,pregnenolone,8955,C0373704,negatively_correlated_with_chemical_or_drug,CMAP,8955.0,,C21H32O2,316.5,"1-[(3S,8S,9S,10R,13S,14S,17S)-3-hydroxy-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-17-yl]ethanone",found
+NR1H3 gene,pregnenolone,8955,C0373704,inverse_negatively_correlated_with_chemical_or_drug,CMAP,8955.0,,C21H32O2,316.5,"1-[(3S,8S,9S,10R,13S,14S,17S)-3-hydroxy-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-17-yl]ethanone",found
+NR1H3 gene,profenamine,688098,C0015042,negatively_correlated_with_chemical_or_drug,CMAP,3290.0,,C19H24N2S,312.5,"N,N-diethyl-1-phenothiazin-10-ylpropan-2-amine",found
+NR1H3 gene,profenamine,688098,C0015042,inverse_negatively_correlated_with_chemical_or_drug,CMAP,3290.0,,C19H24N2S,312.5,"N,N-diethyl-1-phenothiazin-10-ylpropan-2-amine",found
+NR1H3 gene,sotalol,5253,C0037707,negatively_correlated_with_chemical_or_drug,CMAP,5253.0,,C12H20N2O3S,272.37,N-[4-[1-hydroxy-2-(propan-2-ylamino)ethyl]phenyl]methanesulfonamide,found
+NR1H3 gene,sotalol,5253,C0037707,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5253.0,,C12H20N2O3S,272.37,N-[4-[1-hydroxy-2-(propan-2-ylamino)ethyl]phenyl]methanesulfonamide,found
+NR1H3 gene,spironolactone,5833,C0037982,negatively_correlated_with_chemical_or_drug,CMAP,5833.0,,C24H32O4S,416.6,"S-[(7R,8R,9S,10R,13S,14S,17R)-10,13-dimethyl-3,5'-dioxospiro[2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-17,2'-oxolane]-7-yl] ethanethioate",found
+NR1H3 gene,spironolactone,5833,C0037982,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5833.0,,C24H32O4S,416.6,"S-[(7R,8R,9S,10R,13S,14S,17R)-10,13-dimethyl-3,5'-dioxospiro[2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-17,2'-oxolane]-7-yl] ethanethioate",found
+NR1H3 gene,syrosingopine,6769,PUBCHEM:6769 CUI,negatively_regulates,LINCS,6769.0,,C35H42N2O11,666.7,"methyl (1R,15S,17R,18R,19S,20S)-17-(4-ethoxycarbonyloxy-3,5-dimethoxybenzoyl)oxy-6,18-dimethoxy-1,3,11,12,14,15,16,17,18,19,20,21-dodecahydroyohimban-19-carboxylate",found
+NR1H3 gene,syrosingopine,6769,PUBCHEM:6769 CUI,negatively_regulated_by,LINCS,6769.0,,C35H42N2O11,666.7,"methyl (1R,15S,17R,18R,19S,20S)-17-(4-ethoxycarbonyloxy-3,5-dimethoxybenzoyl)oxy-6,18-dimethoxy-1,3,11,12,14,15,16,17,18,19,20,21-dodecahydroyohimban-19-carboxylate",found
+NR1H3 gene,terbutaline,5403,C0039542,negatively_correlated_with_chemical_or_drug,CMAP,5403.0,,C12H19NO3,225.28,"5-[2-(tert-butylamino)-1-hydroxyethyl]benzene-1,3-diol",found
+NR1H3 gene,terbutaline,5403,C0039542,inverse_negatively_correlated_with_chemical_or_drug,CMAP,5403.0,,C12H19NO3,225.28,"5-[2-(tert-butylamino)-1-hydroxyethyl]benzene-1,3-diol",found
+TYROBP gene,"(-)-Phenyl-carbamic acid 1,3a,8-trimethyl-1,2,3,3a,8,8a-hexahydro-pyrrolo[2,3-b]indol-5-yl ester",192706,PUBCHEM:192706 CUI,positively_regulates,LINCS,,,,,,CID not found
+TYROBP gene,"(-)-Phenyl-carbamic acid 1,3a,8-trimethyl-1,2,3,3a,8,8a-hexahydro-pyrrolo[2,3-b]indol-5-yl ester",192706,PUBCHEM:192706 CUI,positively_regulated_by,LINCS,,,,,,CID not found
+TYROBP gene,"7,8-dihydroxy-6-methoxy-2H-chromen-2-one",5273569,PUBCHEM:5273569 CUI,negatively_regulates,LINCS,5273569.0,,C10H8O5,208.17,"7,8-dihydroxy-6-methoxychromen-2-one",found
+TYROBP gene,"7,8-dihydroxy-6-methoxy-2H-chromen-2-one",5273569,PUBCHEM:5273569 CUI,negatively_regulated_by,LINCS,5273569.0,,C10H8O5,208.17,"7,8-dihydroxy-6-methoxychromen-2-one",found
+TYROBP gene,Altizide,2122,PUBCHEM:2122 CUI,positively_regulates,LINCS,2122.0,,C11H14ClN3O4S3,383.9,"6-chloro-1,1-dioxo-3-(prop-2-enylsulfanylmethyl)-3,4-dihydro-2H-1lambda6,2,4-benzothiadiazine-7-sulfonamide",found
+TYROBP gene,Altizide,2122,PUBCHEM:2122 CUI,positively_regulated_by,LINCS,2122.0,,C11H14ClN3O4S3,383.9,"6-chloro-1,1-dioxo-3-(prop-2-enylsulfanylmethyl)-3,4-dihydro-2H-1lambda6,2,4-benzothiadiazine-7-sulfonamide",found
+TYROBP gene,BG-1018,135886614,PUBCHEM:135886614 CUI,negatively_regulates,LINCS,,,,,,CID not found
+TYROBP gene,BG-1018,135886614,PUBCHEM:135886614 CUI,negatively_regulated_by,LINCS,,,,,,CID not found
+TYROBP gene,Bromopride,2446,PUBCHEM:2446 CUI,negatively_regulates,LINCS,2446.0,,C14H22BrN3O2,344.25,4-amino-5-bromo-N-[2-(diethylamino)ethyl]-2-methoxybenzamide,found
+TYROBP gene,Bromopride,2446,PUBCHEM:2446 CUI,negatively_regulated_by,LINCS,2446.0,,C14H22BrN3O2,344.25,4-amino-5-bromo-N-[2-(diethylamino)ethyl]-2-methoxybenzamide,found
+TYROBP gene,Bromperidol,2448,PUBCHEM:2448 CUI,positively_regulates,LINCS,2448.0,,C21H23BrFNO2,420.3,4-[4-(4-bromophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one,found
+TYROBP gene,Bromperidol,2448,PUBCHEM:2448 CUI,positively_regulated_by,LINCS,2448.0,,C21H23BrFNO2,420.3,4-[4-(4-bromophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one,found
+TYROBP gene,CGP-54626,3489614,PUBCHEM:3489614 CUI,negatively_regulates,LINCS,197583.0,,C18H29Cl3NO3P,444.8,"cyclohexylmethyl-[(2S)-3-[[(1S)-1-(3,4-dichlorophenyl)ethyl]amino]-2-hydroxypropyl]phosphinic acid;hydrochloride",found
+TYROBP gene,CGP-54626,3489614,PUBCHEM:3489614 CUI,negatively_regulated_by,LINCS,197583.0,,C18H29Cl3NO3P,444.8,"cyclohexylmethyl-[(2S)-3-[[(1S)-1-(3,4-dichlorophenyl)ethyl]amino]-2-hydroxypropyl]phosphinic acid;hydrochloride",found
+TYROBP gene,DMNB,88505,PUBCHEM:88505 CUI,positively_regulates,LINCS,88505.0,,C9H9NO5,211.17,"4,5-dimethoxy-2-nitrobenzaldehyde",found
+TYROBP gene,DMNB,88505,PUBCHEM:88505 CUI,positively_regulated_by,LINCS,88505.0,,C9H9NO5,211.17,"4,5-dimethoxy-2-nitrobenzaldehyde",found
+TYROBP gene,KU-C103874,3579902,PUBCHEM:3579902 CUI,positively_regulates,LINCS,,,,,,CID not found
+TYROBP gene,KU-C103874,3579902,PUBCHEM:3579902 CUI,positively_regulated_by,LINCS,,,,,,CID not found
+TYROBP gene,KU-C104131,44602406,PUBCHEM:44602406 CUI,negatively_regulates,LINCS,,,,,,CID not found
+TYROBP gene,KU-C104131,44602406,PUBCHEM:44602406 CUI,negatively_regulated_by,LINCS,,,,,,CID not found
+TYROBP gene,MW-A1-2,3125011,PUBCHEM:3125011 CUI,positively_regulates,LINCS,,,,,,CID not found
+TYROBP gene,MW-A1-2,3125011,PUBCHEM:3125011 CUI,positively_regulated_by,LINCS,,,,,,CID not found
+TYROBP gene,Robustic-acid,54677407,PUBCHEM:54677407 CUI,positively_regulates,LINCS,54677407.0,,C22H20O6,380.4,"6-hydroxy-5-methoxy-7-(4-methoxyphenyl)-2,2-dimethylpyrano[3,2-g]chromen-8-one",found
+TYROBP gene,Robustic-acid,54677407,PUBCHEM:54677407 CUI,positively_regulated_by,LINCS,54677407.0,,C22H20O6,380.4,"6-hydroxy-5-methoxy-7-(4-methoxyphenyl)-2,2-dimethylpyrano[3,2-g]chromen-8-one",found
+TYROBP gene,SA-1459430,54658771,PUBCHEM:54658771 CUI,positively_regulates,LINCS,,,,,,CID not found
+TYROBP gene,SA-1459430,54658771,PUBCHEM:54658771 CUI,positively_regulated_by,LINCS,,,,,,CID not found
+TYROBP gene,SD-6-035-A3,49843054,PUBCHEM:49843054 CUI,positively_regulates,LINCS,,,,,,CID not found
+TYROBP gene,SD-6-035-A3,49843054,PUBCHEM:49843054 CUI,positively_regulated_by,LINCS,,,,,,CID not found
+TYROBP gene,Suvorexant,24965990,PUBCHEM:24965990 CUI,negatively_regulates,LINCS,24965990.0,,C23H23ClN6O2,450.9,"[(7R)-4-(5-chloro-1,3-benzoxazol-2-yl)-7-methyl-1,4-diazepan-1-yl]-[5-methyl-2-(triazol-2-yl)phenyl]methanone",found
+TYROBP gene,Suvorexant,24965990,PUBCHEM:24965990 CUI,negatively_regulated_by,LINCS,24965990.0,,C23H23ClN6O2,450.9,"[(7R)-4-(5-chloro-1,3-benzoxazol-2-yl)-7-methyl-1,4-diazepan-1-yl]-[5-methyl-2-(triazol-2-yl)phenyl]methanone",found
+TYROBP gene,VU-0413255-1,23036271,PUBCHEM:23036271 CUI,positively_regulates,LINCS,,,,,,CID not found
+TYROBP gene,VU-0413255-1,23036271,PUBCHEM:23036271 CUI,positively_regulated_by,LINCS,,,,,,CID not found
+TYROBP gene,clonixin-lysinate,3080836,PUBCHEM:3080836 CUI,negatively_regulates,LINCS,3080836.0,,C19H25ClN4O4,408.9,"2-(3-chloro-2-methylanilino)pyridine-3-carboxylic acid;(2S)-2,6-diaminohexanoic acid",found
+TYROBP gene,clonixin-lysinate,3080836,PUBCHEM:3080836 CUI,negatively_regulated_by,LINCS,3080836.0,,C19H25ClN4O4,408.9,"2-(3-chloro-2-methylanilino)pyridine-3-carboxylic acid;(2S)-2,6-diaminohexanoic acid",found
+TYROBP gene,firategrast,9935681,PUBCHEM:9935681 CUI,positively_regulates,LINCS,9935681.0,,C27H27F2NO6,499.5,"(2S)-2-[(2,6-difluorobenzoyl)amino]-3-[4-[4-(ethoxymethyl)-2,6-dimethoxyphenyl]phenyl]propanoic acid",found
+TYROBP gene,firategrast,9935681,PUBCHEM:9935681 CUI,positively_regulated_by,LINCS,9935681.0,,C27H27F2NO6,499.5,"(2S)-2-[(2,6-difluorobenzoyl)amino]-3-[4-[4-(ethoxymethyl)-2,6-dimethoxyphenyl]phenyl]propanoic acid",found
+TYROBP gene,inhibitor-BEC,16760312,PUBCHEM:16760312 CUI,negatively_regulates,LINCS,,,,,,CID not found
+TYROBP gene,inhibitor-BEC,16760312,PUBCHEM:16760312 CUI,negatively_regulated_by,LINCS,,,,,,CID not found
+TYROBP gene,isoeugenol,5318562,PUBCHEM:5318562 CUI,negatively_regulates,LINCS,853433.0,,C10H12O2,164.2,2-methoxy-4-[(E)-prop-1-enyl]phenol,found
+TYROBP gene,isoeugenol,5318562,PUBCHEM:5318562 CUI,negatively_regulated_by,LINCS,853433.0,,C10H12O2,164.2,2-methoxy-4-[(E)-prop-1-enyl]phenol,found
+TYROBP gene,"isopropyl 4-(1-(2-fluoro-4-(methylsulfonyl)phenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yloxy)piperidine-1-carboxylate",11705608,PUBCHEM:11705608 CUI,negatively_regulates,LINCS,11705608.0,,C21H24FN5O5S,477.5,"propan-2-yl 4-[1-(2-fluoro-4-methylsulfonylphenyl)pyrazolo[5,4-d]pyrimidin-4-yl]oxypiperidine-1-carboxylate",found
+TYROBP gene,"isopropyl 4-(1-(2-fluoro-4-(methylsulfonyl)phenyl)-1H-pyrazolo[3,4-d]pyrimidin-4-yloxy)piperidine-1-carboxylate",11705608,PUBCHEM:11705608 CUI,negatively_regulated_by,LINCS,11705608.0,,C21H24FN5O5S,477.5,"propan-2-yl 4-[1-(2-fluoro-4-methylsulfonylphenyl)pyrazolo[5,4-d]pyrimidin-4-yl]oxypiperidine-1-carboxylate",found
+TYROBP gene,safrolglycol,97807,PUBCHEM:97807 CUI,positively_regulates,LINCS,97807.0,,C10H12O4,196.2,"3-(1,3-benzodioxol-5-yl)propane-1,2-diol",found
+TYROBP gene,safrolglycol,97807,PUBCHEM:97807 CUI,positively_regulated_by,LINCS,97807.0,,C10H12O4,196.2,"3-(1,3-benzodioxol-5-yl)propane-1,2-diol",found
