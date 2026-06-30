@@ -1,0 +1,4 @@
+gene,total_rows,unique_compounds,ro5_pass_compounds,rough_bbb_candidate_rows
+NR1H2 gene,86,42,56,52
+NR1H3 gene,86,43,70,52
+TYROBP gene,44,22,26,20
